@@ -1,0 +1,30 @@
+{
+  "total_trades_processed": 500,
+  "valid_regulatory_records": 500,
+  "invalid_records": 0,
+  "valid_ratio": 1.0,
+  "invalid_ratio": 0.0,
+  "top_error_types": [],
+  "venue_distribution": [
+    [
+      "XNSE",
+      107
+    ],
+    [
+      "BATS",
+      106
+    ],
+    [
+      "XNYS",
+      105
+    ],
+    [
+      "ARCX",
+      94
+    ],
+    [
+      "XNAS",
+      88
+    ]
+  ]
+}

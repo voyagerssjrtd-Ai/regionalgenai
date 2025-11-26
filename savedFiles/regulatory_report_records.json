@@ -1,0 +1,5502 @@
+[
+  {
+    "trade_id": "INT_100000",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T23:15:00Z",
+      "InstrumentIdentificationCode": "US7469267437",
+      "Price": 95.0,
+      "Quantity": 92,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "VY01POCGUIRDYNIZBT1G"
+    }
+  },
+  {
+    "trade_id": "INT_100001",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T11:14:00Z",
+      "InstrumentIdentificationCode": "US0317315593",
+      "Price": 484.94,
+      "Quantity": 255,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "J9N4OHNWUPRXZY2OAYGI"
+    }
+  },
+  {
+    "trade_id": "INT_100002",
+    "report_record": {
+      "TradingDateTime": "2024-01-02T20:55:00Z",
+      "InstrumentIdentificationCode": "US2072204969",
+      "Price": 168.79,
+      "Quantity": 206,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "V08A8NCAEZN0IOOZM55D"
+    }
+  },
+  {
+    "trade_id": "INT_100003",
+    "report_record": {
+      "TradingDateTime": "2024-01-05T10:14:00Z",
+      "InstrumentIdentificationCode": "US3625198453",
+      "Price": 271.97,
+      "Quantity": 393,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "6A0MCFH0I6XO55XLBCQB"
+    }
+  },
+  {
+    "trade_id": "INT_100004",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T14:14:00Z",
+      "InstrumentIdentificationCode": "US0021495636",
+      "Price": 187.05,
+      "Quantity": 327,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "VKP6IFP2CT9SZCST5G6R"
+    }
+  },
+  {
+    "trade_id": "INT_100005",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T15:55:00Z",
+      "InstrumentIdentificationCode": "US1692698301",
+      "Price": 482.88,
+      "Quantity": 59,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "I8SPCTX6XKH9T8Y8Y2RR"
+    }
+  },
+  {
+    "trade_id": "INT_100006",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T21:23:00Z",
+      "InstrumentIdentificationCode": "US3043776200",
+      "Price": 128.98,
+      "Quantity": 1441,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "007U3616ESD8Q132F8X2"
+    }
+  },
+  {
+    "trade_id": "INT_100007",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T11:39:00Z",
+      "InstrumentIdentificationCode": "US3460218959",
+      "Price": 39.86,
+      "Quantity": 171,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "VWB0BZQ6I2Z8YXMG9TAH"
+    }
+  },
+  {
+    "trade_id": "INT_100008",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T13:33:00Z",
+      "InstrumentIdentificationCode": "US2611652895",
+      "Price": 67.89,
+      "Quantity": 92,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "EDF538PM3SQS1ZZWILAA"
+    }
+  },
+  {
+    "trade_id": "INT_100009",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T10:05:00Z",
+      "InstrumentIdentificationCode": "US8740645629",
+      "Price": 380.13,
+      "Quantity": 440,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "3ELPZZU963WJE974JS5A"
+    }
+  },
+  {
+    "trade_id": "INT_100010",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T04:51:00Z",
+      "InstrumentIdentificationCode": "US7610371200",
+      "Price": 411.11,
+      "Quantity": 231,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "2ML4B8WQZH2ZJZ7GDK29"
+    }
+  },
+  {
+    "trade_id": "INT_100011",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T00:24:00Z",
+      "InstrumentIdentificationCode": "US9487202310",
+      "Price": 173.7,
+      "Quantity": 462,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "MWY83QTYVMS9LSLIG1N4"
+    }
+  },
+  {
+    "trade_id": "INT_100012",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T19:26:00Z",
+      "InstrumentIdentificationCode": "US4428343468",
+      "Price": 354.39,
+      "Quantity": 205,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "QGMI0BE2SHAVQGYD9F4S"
+    }
+  },
+  {
+    "trade_id": "INT_100013",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T14:30:00Z",
+      "InstrumentIdentificationCode": "US9926219378",
+      "Price": 342.11,
+      "Quantity": 792,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "Y6F5UPUK98STRNO4ACPW"
+    }
+  },
+  {
+    "trade_id": "INT_100014",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T16:41:00Z",
+      "InstrumentIdentificationCode": "US7574793979",
+      "Price": 133.68,
+      "Quantity": 66,
+      "VenueMIC": "BATS",
+      "BuyerLei": "QI6TM12M8FREYBJ3E6AR"
+    }
+  },
+  {
+    "trade_id": "INT_100015",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T13:13:00Z",
+      "InstrumentIdentificationCode": "US5001820465",
+      "Price": 269.5,
+      "Quantity": 38,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "WJJSQUNIAMDA5714HZ7C"
+    }
+  },
+  {
+    "trade_id": "INT_100016",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T19:44:00Z",
+      "InstrumentIdentificationCode": "US4806441265",
+      "Price": 320.14,
+      "Quantity": 156,
+      "VenueMIC": "BATS",
+      "BuyerLei": "6XO3QE2DJQJQTXE7FBMK"
+    }
+  },
+  {
+    "trade_id": "INT_100017",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T19:34:00Z",
+      "InstrumentIdentificationCode": "US5737378221",
+      "Price": 115.81,
+      "Quantity": 188,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "1VUFAELZ7NZ0IZV3QZ9A"
+    }
+  },
+  {
+    "trade_id": "INT_100018",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T09:55:00Z",
+      "InstrumentIdentificationCode": "US7596719726",
+      "Price": 20.08,
+      "Quantity": 237,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "8OY1JQVZYQMTYDJCR9V7"
+    }
+  },
+  {
+    "trade_id": "INT_100019",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T22:08:00Z",
+      "InstrumentIdentificationCode": "US2984539175",
+      "Price": 122.43,
+      "Quantity": 284,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "D3K34XIC49X4FBT1KDOF"
+    }
+  },
+  {
+    "trade_id": "INT_100020",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T03:35:00Z",
+      "InstrumentIdentificationCode": "US2817924595",
+      "Price": 267.27,
+      "Quantity": 281,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "K9MC6FJEWJBMBTAIQIKO"
+    }
+  },
+  {
+    "trade_id": "INT_100021",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T04:18:00Z",
+      "InstrumentIdentificationCode": "US0414781220",
+      "Price": 289.36,
+      "Quantity": 65,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "38UESNZDYYRHN56WO6YQ"
+    }
+  },
+  {
+    "trade_id": "INT_100022",
+    "report_record": {
+      "TradingDateTime": "2024-01-13T18:21:00Z",
+      "InstrumentIdentificationCode": "US7262552627",
+      "Price": 288.71,
+      "Quantity": 817,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "06DVBJEJ6M49XO2HE2DL"
+    }
+  },
+  {
+    "trade_id": "INT_100023",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T10:38:00Z",
+      "InstrumentIdentificationCode": "US3943975576",
+      "Price": 473.91,
+      "Quantity": 143,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "RY6L9DEH14I2NVKWAUZ9"
+    }
+  },
+  {
+    "trade_id": "INT_100024",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T21:20:00Z",
+      "InstrumentIdentificationCode": "US4848938498",
+      "Price": 461.87,
+      "Quantity": 424,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "0QXYGFX62VZ1UGQTTV1G"
+    }
+  },
+  {
+    "trade_id": "INT_100025",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T03:09:00Z",
+      "InstrumentIdentificationCode": "US2720721021",
+      "Price": 223.18,
+      "Quantity": 115,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "DAH2C5JJS76W15G2HACX"
+    }
+  },
+  {
+    "trade_id": "INT_100026",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T21:59:00Z",
+      "InstrumentIdentificationCode": "US4220712773",
+      "Price": 165.38,
+      "Quantity": 112,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "G6WUSS92RBAETKBCWLTE"
+    }
+  },
+  {
+    "trade_id": "INT_100027",
+    "report_record": {
+      "TradingDateTime": "2024-01-05T22:03:00Z",
+      "InstrumentIdentificationCode": "US3957097601",
+      "Price": 138.0,
+      "Quantity": 51,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "IVDZ27WKFRU97QYLWVU0"
+    }
+  },
+  {
+    "trade_id": "INT_100028",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T10:02:00Z",
+      "InstrumentIdentificationCode": "US1846909491",
+      "Price": 303.56,
+      "Quantity": 104,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "KK987XVE69TS8Q7IZBII"
+    }
+  },
+  {
+    "trade_id": "INT_100029",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T14:48:00Z",
+      "InstrumentIdentificationCode": "US7986221425",
+      "Price": 183.68,
+      "Quantity": 181,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "QJLPXSH4UQWPFHYRYLOZ"
+    }
+  },
+  {
+    "trade_id": "INT_100030",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T09:35:00Z",
+      "InstrumentIdentificationCode": "US6069459646",
+      "Price": 431.71,
+      "Quantity": 142,
+      "VenueMIC": "BATS",
+      "BuyerLei": "QN4X87CZWOD2VYMR6PB8"
+    }
+  },
+  {
+    "trade_id": "INT_100031",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T18:34:00Z",
+      "InstrumentIdentificationCode": "US1263048789",
+      "Price": 171.5,
+      "Quantity": 293,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "CN3DRYAOIOXDLFXKM7YG"
+    }
+  },
+  {
+    "trade_id": "INT_100032",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T01:34:00Z",
+      "InstrumentIdentificationCode": "US9189809275",
+      "Price": 261.54,
+      "Quantity": 42,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "8RQXC58MYIDN7KC12ICY"
+    }
+  },
+  {
+    "trade_id": "INT_100033",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T06:32:00Z",
+      "InstrumentIdentificationCode": "US7841757491",
+      "Price": 113.99,
+      "Quantity": 262,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "MQ52C70M6FXSP16MY90G"
+    }
+  },
+  {
+    "trade_id": "INT_100034",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T06:17:00Z",
+      "InstrumentIdentificationCode": "US6994613161",
+      "Price": 317.75,
+      "Quantity": 179,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "X8FS3GJ571O32VDT59D0"
+    }
+  },
+  {
+    "trade_id": "INT_100035",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T14:33:00Z",
+      "InstrumentIdentificationCode": "US5971132360",
+      "Price": 246.88,
+      "Quantity": 155,
+      "VenueMIC": "BATS",
+      "BuyerLei": "DQ8MO22K5BNTVK0CQ12U"
+    }
+  },
+  {
+    "trade_id": "INT_100036",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T20:42:00Z",
+      "InstrumentIdentificationCode": "US5284209512",
+      "Price": 432.86,
+      "Quantity": 42,
+      "VenueMIC": "BATS",
+      "BuyerLei": "YQ2HO0GC2XCTOY3NGQT9"
+    }
+  },
+  {
+    "trade_id": "INT_100037",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T09:28:00Z",
+      "InstrumentIdentificationCode": "US5441770741",
+      "Price": 200.79,
+      "Quantity": 628,
+      "VenueMIC": "BATS",
+      "BuyerLei": "6HKVXQL5OPV1T6J56B66"
+    }
+  },
+  {
+    "trade_id": "INT_100038",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T01:16:00Z",
+      "InstrumentIdentificationCode": "US5615699119",
+      "Price": 354.71,
+      "Quantity": 195,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "45LHH1TGKTPDFVZCNKRL"
+    }
+  },
+  {
+    "trade_id": "INT_100039",
+    "report_record": {
+      "TradingDateTime": "2024-01-02T02:00:00Z",
+      "InstrumentIdentificationCode": "US2926376462",
+      "Price": 15.33,
+      "Quantity": 66,
+      "VenueMIC": "BATS",
+      "BuyerLei": "5C1J82O6GL3U4XTD1TX5"
+    }
+  },
+  {
+    "trade_id": "INT_100040",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T03:00:00Z",
+      "InstrumentIdentificationCode": "US3113569229",
+      "Price": 317.62,
+      "Quantity": 252,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "93WNNBENYTBFQY1B8EAL"
+    }
+  },
+  {
+    "trade_id": "INT_100041",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T02:22:00Z",
+      "InstrumentIdentificationCode": "US9259980437",
+      "Price": 354.85,
+      "Quantity": 42,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "L1OFTNBITZ2A8FE6NLTX"
+    }
+  },
+  {
+    "trade_id": "INT_100042",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T13:37:00Z",
+      "InstrumentIdentificationCode": "US8671653631",
+      "Price": 224.66,
+      "Quantity": 195,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "7AZJ3RQZHL0HYD6AS4PN"
+    }
+  },
+  {
+    "trade_id": "INT_100043",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T17:44:00Z",
+      "InstrumentIdentificationCode": "US1158088848",
+      "Price": 327.0,
+      "Quantity": 77,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "F7RMWSKAXGYUOALGOUS2"
+    }
+  },
+  {
+    "trade_id": "INT_100044",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T04:47:00Z",
+      "InstrumentIdentificationCode": "US2592791824",
+      "Price": 17.69,
+      "Quantity": 12,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "E7O9OWFUWPOY9KODUMVS"
+    }
+  },
+  {
+    "trade_id": "INT_100045",
+    "report_record": {
+      "TradingDateTime": "2024-01-05T23:11:00Z",
+      "InstrumentIdentificationCode": "US2793110398",
+      "Price": 66.0,
+      "Quantity": 1466,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "4G9TDGAMVUV1IZIOJXHX"
+    }
+  },
+  {
+    "trade_id": "INT_100046",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T16:04:00Z",
+      "InstrumentIdentificationCode": "US1723698123",
+      "Price": 121.44,
+      "Quantity": 47,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "UQVO81G5KJINMYB8GURC"
+    }
+  },
+  {
+    "trade_id": "INT_100047",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T03:50:00Z",
+      "InstrumentIdentificationCode": "US0672395963",
+      "Price": 447.62,
+      "Quantity": 115,
+      "VenueMIC": "BATS",
+      "BuyerLei": "FDMBE05UHHCCVFBWBQ87"
+    }
+  },
+  {
+    "trade_id": "INT_100048",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T05:27:00Z",
+      "InstrumentIdentificationCode": "US9348698607",
+      "Price": 496.28,
+      "Quantity": 49,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "UTFVRH56PL7N96WBUB0I"
+    }
+  },
+  {
+    "trade_id": "INT_100049",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T10:27:00Z",
+      "InstrumentIdentificationCode": "US9316525543",
+      "Price": 465.64,
+      "Quantity": 108,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "83X3NFCPGNIOU8B0B8RN"
+    }
+  },
+  {
+    "trade_id": "INT_100050",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T02:17:00Z",
+      "InstrumentIdentificationCode": "US1850305322",
+      "Price": 38.75,
+      "Quantity": 102,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "L551M4NTR2F52BWS4ES7"
+    }
+  },
+  {
+    "trade_id": "INT_100051",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T10:18:00Z",
+      "InstrumentIdentificationCode": "US7862824826",
+      "Price": 35.83,
+      "Quantity": 55,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "Q298G01VNGVEB0UOUJWE"
+    }
+  },
+  {
+    "trade_id": "INT_100052",
+    "report_record": {
+      "TradingDateTime": "2024-01-18T05:37:00Z",
+      "InstrumentIdentificationCode": "US4414302043",
+      "Price": 327.6,
+      "Quantity": 100,
+      "VenueMIC": "BATS",
+      "BuyerLei": "UMQIAB26JU1K7HVHOQWX"
+    }
+  },
+  {
+    "trade_id": "INT_100053",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T21:51:00Z",
+      "InstrumentIdentificationCode": "US0647786027",
+      "Price": 22.61,
+      "Quantity": 258,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "9KOSG1EE35HJ51Q4HYIB"
+    }
+  },
+  {
+    "trade_id": "INT_100054",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T05:04:00Z",
+      "InstrumentIdentificationCode": "US3888961943",
+      "Price": 293.3,
+      "Quantity": 157,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "JOQRIYNYV3TU5U853LRU"
+    }
+  },
+  {
+    "trade_id": "INT_100055",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T02:37:00Z",
+      "InstrumentIdentificationCode": "US7665585114",
+      "Price": 409.8,
+      "Quantity": 194,
+      "VenueMIC": "BATS",
+      "BuyerLei": "MV6CSW23YHPHAECAD857"
+    }
+  },
+  {
+    "trade_id": "INT_100056",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T17:56:00Z",
+      "InstrumentIdentificationCode": "US6188335999",
+      "Price": 479.25,
+      "Quantity": 67,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "P4FSDDTJX8ZUUJDTQGD2"
+    }
+  },
+  {
+    "trade_id": "INT_100057",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T03:05:00Z",
+      "InstrumentIdentificationCode": "US7711220257",
+      "Price": 393.52,
+      "Quantity": 283,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "936R1K6QFDT0OFNKIZPE"
+    }
+  },
+  {
+    "trade_id": "INT_100058",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T18:49:00Z",
+      "InstrumentIdentificationCode": "US2055024292",
+      "Price": 231.8,
+      "Quantity": 248,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "8AX9F4TXY9U3X3V1G81N"
+    }
+  },
+  {
+    "trade_id": "INT_100059",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T11:27:00Z",
+      "InstrumentIdentificationCode": "US9858373198",
+      "Price": 161.02,
+      "Quantity": 87,
+      "VenueMIC": "BATS",
+      "BuyerLei": "KTXOGUZNURECWZXSYUL6"
+    }
+  },
+  {
+    "trade_id": "INT_100060",
+    "report_record": {
+      "TradingDateTime": "2024-01-18T16:30:00Z",
+      "InstrumentIdentificationCode": "US8656007198",
+      "Price": 116.94,
+      "Quantity": 1304,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "VBJ7PVLXJ85GUTZDVOUO"
+    }
+  },
+  {
+    "trade_id": "INT_100061",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T13:01:00Z",
+      "InstrumentIdentificationCode": "US8799018727",
+      "Price": 198.41,
+      "Quantity": 380,
+      "VenueMIC": "BATS",
+      "BuyerLei": "SEKLJHX19UHIORTFLBGP"
+    }
+  },
+  {
+    "trade_id": "INT_100062",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T04:42:00Z",
+      "InstrumentIdentificationCode": "US7500674435",
+      "Price": 494.27,
+      "Quantity": 62,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "U3M7D140EYC6DYT7ZE81"
+    }
+  },
+  {
+    "trade_id": "INT_100063",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T22:09:00Z",
+      "InstrumentIdentificationCode": "US2818471529",
+      "Price": 60.91,
+      "Quantity": 465,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "7RKWVQEK3O086TP7B81F"
+    }
+  },
+  {
+    "trade_id": "INT_100064",
+    "report_record": {
+      "TradingDateTime": "2024-01-15T21:27:00Z",
+      "InstrumentIdentificationCode": "US2398542844",
+      "Price": 334.17,
+      "Quantity": 306,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "0W07N9H8S3NTYXNZWVSC"
+    }
+  },
+  {
+    "trade_id": "INT_100065",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T12:35:00Z",
+      "InstrumentIdentificationCode": "US6868237543",
+      "Price": 124.74,
+      "Quantity": 289,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "N3DD1HBVP23L8KUUETC6"
+    }
+  },
+  {
+    "trade_id": "INT_100066",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T19:40:00Z",
+      "InstrumentIdentificationCode": "US3201707675",
+      "Price": 446.8,
+      "Quantity": 247,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "T2DG11DVLCVBX70AHWFV"
+    }
+  },
+  {
+    "trade_id": "INT_100067",
+    "report_record": {
+      "TradingDateTime": "2024-01-05T15:56:00Z",
+      "InstrumentIdentificationCode": "US5972908027",
+      "Price": 226.5,
+      "Quantity": 586,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "MHT6ZUIXQXUMKSKMASLH"
+    }
+  },
+  {
+    "trade_id": "INT_100068",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T05:32:00Z",
+      "InstrumentIdentificationCode": "US0969478660",
+      "Price": 195.0,
+      "Quantity": 73,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "1T6LOB2JBKMJNRI1CTF0"
+    }
+  },
+  {
+    "trade_id": "INT_100069",
+    "report_record": {
+      "TradingDateTime": "2024-01-22T02:13:00Z",
+      "InstrumentIdentificationCode": "US7108206944",
+      "Price": 111.95,
+      "Quantity": 209,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "1UR98I375CC1OWK596X7"
+    }
+  },
+  {
+    "trade_id": "INT_100070",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T09:10:00Z",
+      "InstrumentIdentificationCode": "US4700329120",
+      "Price": 421.65,
+      "Quantity": 165,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "DE3XCKDZ00FO38WFDRI2"
+    }
+  },
+  {
+    "trade_id": "INT_100071",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T09:33:00Z",
+      "InstrumentIdentificationCode": "US5344801546",
+      "Price": 154.65,
+      "Quantity": 491,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "UUKDA1X8M7K9Q8RVXSUH"
+    }
+  },
+  {
+    "trade_id": "INT_100072",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T14:28:00Z",
+      "InstrumentIdentificationCode": "US5241554564",
+      "Price": 472.3,
+      "Quantity": 276,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "5F9K6XWO0KQN0R1DG8IH"
+    }
+  },
+  {
+    "trade_id": "INT_100073",
+    "report_record": {
+      "TradingDateTime": "2024-01-02T15:44:00Z",
+      "InstrumentIdentificationCode": "US0725246155",
+      "Price": 347.8,
+      "Quantity": 102,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "PLBX8338SHZG3GCA9YAO"
+    }
+  },
+  {
+    "trade_id": "INT_100074",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T23:35:00Z",
+      "InstrumentIdentificationCode": "US8032176813",
+      "Price": 59.94,
+      "Quantity": 122,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "SPBQ7PBBZM47CHWN02AQ"
+    }
+  },
+  {
+    "trade_id": "INT_100075",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T17:16:00Z",
+      "InstrumentIdentificationCode": "US2428850669",
+      "Price": 314.27,
+      "Quantity": 85,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "N1XOV3DMWHRL4N7R7KLO"
+    }
+  },
+  {
+    "trade_id": "INT_100076",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T08:25:00Z",
+      "InstrumentIdentificationCode": "US9155067178",
+      "Price": 433.94,
+      "Quantity": 178,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "FLQWZ260YJWUUM6XKQDY"
+    }
+  },
+  {
+    "trade_id": "INT_100077",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T06:11:00Z",
+      "InstrumentIdentificationCode": "US2490456821",
+      "Price": 386.54,
+      "Quantity": 51,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "MRM94BPIIKV69W7IXHG9"
+    }
+  },
+  {
+    "trade_id": "INT_100078",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T14:44:00Z",
+      "InstrumentIdentificationCode": "US7550342805",
+      "Price": 345.58,
+      "Quantity": 58,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "XBVQ9NJ8YCQLX2Y9ZAT1"
+    }
+  },
+  {
+    "trade_id": "INT_100079",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T22:31:00Z",
+      "InstrumentIdentificationCode": "US9549814564",
+      "Price": 370.82,
+      "Quantity": 164,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "LPP9MG9I5KH6WYHVDC22"
+    }
+  },
+  {
+    "trade_id": "INT_100080",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T12:30:00Z",
+      "InstrumentIdentificationCode": "US9397864731",
+      "Price": 106.47,
+      "Quantity": 645,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "YJSKMHD41KAX4ZETK607"
+    }
+  },
+  {
+    "trade_id": "INT_100081",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T00:25:00Z",
+      "InstrumentIdentificationCode": "US4555192570",
+      "Price": 497.52,
+      "Quantity": 205,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "1FPD8ZLKYRSWRZFD27QP"
+    }
+  },
+  {
+    "trade_id": "INT_100082",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T01:11:00Z",
+      "InstrumentIdentificationCode": "US9730603715",
+      "Price": 393.29,
+      "Quantity": 462,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "UXBH0V02CMJ9I07A5Y2G"
+    }
+  },
+  {
+    "trade_id": "INT_100083",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T10:59:00Z",
+      "InstrumentIdentificationCode": "US2206901334",
+      "Price": 330.03,
+      "Quantity": 210,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "TWJKEAQV72DEKU8LZSGG"
+    }
+  },
+  {
+    "trade_id": "INT_100084",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T03:57:00Z",
+      "InstrumentIdentificationCode": "US6931378268",
+      "Price": 232.7,
+      "Quantity": 292,
+      "VenueMIC": "BATS",
+      "BuyerLei": "XDC7WWE4FJGUTCVD1L9E"
+    }
+  },
+  {
+    "trade_id": "INT_100085",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T15:57:00Z",
+      "InstrumentIdentificationCode": "US8285367545",
+      "Price": 332.2,
+      "Quantity": 102,
+      "VenueMIC": "BATS",
+      "BuyerLei": "57IQK5JVQDYUAY9QXBO5"
+    }
+  },
+  {
+    "trade_id": "INT_100086",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T12:16:00Z",
+      "InstrumentIdentificationCode": "US6968018855",
+      "Price": 220.49,
+      "Quantity": 310,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "ZO955DRS8N6N7DX2SF6S"
+    }
+  },
+  {
+    "trade_id": "INT_100087",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T05:14:00Z",
+      "InstrumentIdentificationCode": "US5722983361",
+      "Price": 337.99,
+      "Quantity": 464,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "CPSRPH6LKE0LQF6E1NE6"
+    }
+  },
+  {
+    "trade_id": "INT_100088",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T09:22:00Z",
+      "InstrumentIdentificationCode": "US4163035666",
+      "Price": 142.54,
+      "Quantity": 98,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "HZ2JQBFE1ERZT0LGCJ7Y"
+    }
+  },
+  {
+    "trade_id": "INT_100089",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T23:55:00Z",
+      "InstrumentIdentificationCode": "US9559665385",
+      "Price": 231.72,
+      "Quantity": 192,
+      "VenueMIC": "BATS",
+      "BuyerLei": "VCFO0JI65F9B2DASZYJO"
+    }
+  },
+  {
+    "trade_id": "INT_100090",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T15:19:00Z",
+      "InstrumentIdentificationCode": "US3180036083",
+      "Price": 310.54,
+      "Quantity": 305,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "08UY1OD2I0ZS1QTW56E7"
+    }
+  },
+  {
+    "trade_id": "INT_100091",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T03:46:00Z",
+      "InstrumentIdentificationCode": "US1691523729",
+      "Price": 130.41,
+      "Quantity": 60,
+      "VenueMIC": "BATS",
+      "BuyerLei": "QIFY16IRUB9O1R7VKMDV"
+    }
+  },
+  {
+    "trade_id": "INT_100092",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T11:33:00Z",
+      "InstrumentIdentificationCode": "US3062518055",
+      "Price": 471.55,
+      "Quantity": 657,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "TS8DEADL0WYUXY55E9P6"
+    }
+  },
+  {
+    "trade_id": "INT_100093",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T02:16:00Z",
+      "InstrumentIdentificationCode": "US2265854960",
+      "Price": 233.61,
+      "Quantity": 161,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "I2WM5WQUBFR3V63Q5NJ9"
+    }
+  },
+  {
+    "trade_id": "INT_100094",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T15:09:00Z",
+      "InstrumentIdentificationCode": "US6525778002",
+      "Price": 105.82,
+      "Quantity": 658,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "A72M2XZQGMEZCGAQYCO2"
+    }
+  },
+  {
+    "trade_id": "INT_100095",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T21:15:00Z",
+      "InstrumentIdentificationCode": "US8587708582",
+      "Price": 146.33,
+      "Quantity": 88,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "BOCK3RB5HVFL9O1RBMOT"
+    }
+  },
+  {
+    "trade_id": "INT_100096",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T07:05:00Z",
+      "InstrumentIdentificationCode": "US2225763391",
+      "Price": 403.22,
+      "Quantity": 121,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "Y9HI5Q8S2G1I1F2QPW4C"
+    }
+  },
+  {
+    "trade_id": "INT_100097",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T08:09:00Z",
+      "InstrumentIdentificationCode": "US4599577871",
+      "Price": 454.38,
+      "Quantity": 147,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "PQZBLZWR5CC3A351UM09"
+    }
+  },
+  {
+    "trade_id": "INT_100098",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T14:38:00Z",
+      "InstrumentIdentificationCode": "US6657394307",
+      "Price": 280.88,
+      "Quantity": 106,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "2GMRBHK60TL405JC084O"
+    }
+  },
+  {
+    "trade_id": "INT_100099",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T17:38:00Z",
+      "InstrumentIdentificationCode": "US4254255710",
+      "Price": 24.27,
+      "Quantity": 242,
+      "VenueMIC": "BATS",
+      "BuyerLei": "PEUJSYD2SBJYTSWXK71E"
+    }
+  },
+  {
+    "trade_id": "INT_100100",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T09:24:00Z",
+      "InstrumentIdentificationCode": "US1350935816",
+      "Price": 323.91,
+      "Quantity": 88,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "VSAGDAOLVVQ2NT6OLT3C"
+    }
+  },
+  {
+    "trade_id": "INT_100101",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T14:53:00Z",
+      "InstrumentIdentificationCode": "US1405135977",
+      "Price": 352.81,
+      "Quantity": 173,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "3QTPGP0WXI8TQ4HO43TL"
+    }
+  },
+  {
+    "trade_id": "INT_100102",
+    "report_record": {
+      "TradingDateTime": "2024-01-05T19:53:00Z",
+      "InstrumentIdentificationCode": "US2116913157",
+      "Price": 486.67,
+      "Quantity": 114,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "WKH23J19M59ZVD4RXWVB"
+    }
+  },
+  {
+    "trade_id": "INT_100103",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T03:39:00Z",
+      "InstrumentIdentificationCode": "US4597726006",
+      "Price": 200.88,
+      "Quantity": 116,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "7IVMYRLQOOOMQ5ITZ0UR"
+    }
+  },
+  {
+    "trade_id": "INT_100104",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T07:26:00Z",
+      "InstrumentIdentificationCode": "US5268216638",
+      "Price": 369.44,
+      "Quantity": 154,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "4DHYM513C1C7PV5HHFN5"
+    }
+  },
+  {
+    "trade_id": "INT_100105",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T18:39:00Z",
+      "InstrumentIdentificationCode": "US0438849365",
+      "Price": 313.62,
+      "Quantity": 569,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "TMQ96AOMQXH0WHHZM1YP"
+    }
+  },
+  {
+    "trade_id": "INT_100106",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T06:09:00Z",
+      "InstrumentIdentificationCode": "US6114460723",
+      "Price": 66.08,
+      "Quantity": 688,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "IA8K7PI5OL6NHH0LAK4Q"
+    }
+  },
+  {
+    "trade_id": "INT_100107",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T22:52:00Z",
+      "InstrumentIdentificationCode": "US4767551542",
+      "Price": 388.75,
+      "Quantity": 124,
+      "VenueMIC": "BATS",
+      "BuyerLei": "UBS1QFS1BDVZ9M5Q9S81"
+    }
+  },
+  {
+    "trade_id": "INT_100108",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T14:31:00Z",
+      "InstrumentIdentificationCode": "US7713587768",
+      "Price": 92.71,
+      "Quantity": 39,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "PO8LZ7W4TLWDWAYB3CUY"
+    }
+  },
+  {
+    "trade_id": "INT_100109",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T07:49:00Z",
+      "InstrumentIdentificationCode": "US0359938478",
+      "Price": 180.79,
+      "Quantity": 348,
+      "VenueMIC": "BATS",
+      "BuyerLei": "WD0RU18VWCJYHKE2EIBA"
+    }
+  },
+  {
+    "trade_id": "INT_100110",
+    "report_record": {
+      "TradingDateTime": "2024-01-05T02:18:00Z",
+      "InstrumentIdentificationCode": "US6975986947",
+      "Price": 117.13,
+      "Quantity": 98,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "UOQV8PHQQZMQQNF8NHO0"
+    }
+  },
+  {
+    "trade_id": "INT_100111",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T13:40:00Z",
+      "InstrumentIdentificationCode": "US5459068194",
+      "Price": 128.64,
+      "Quantity": 980,
+      "VenueMIC": "BATS",
+      "BuyerLei": "DQNNMGOS8Q8ST985XQGA"
+    }
+  },
+  {
+    "trade_id": "INT_100112",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T11:43:00Z",
+      "InstrumentIdentificationCode": "US4373912577",
+      "Price": 419.07,
+      "Quantity": 61,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "P83JRE27WE3FD2WF5RO5"
+    }
+  },
+  {
+    "trade_id": "INT_100113",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T03:49:00Z",
+      "InstrumentIdentificationCode": "US7290330824",
+      "Price": 411.11,
+      "Quantity": 48,
+      "VenueMIC": "BATS",
+      "BuyerLei": "TVKMCILWN6RIWJSEW3Y1"
+    }
+  },
+  {
+    "trade_id": "INT_100114",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T10:23:00Z",
+      "InstrumentIdentificationCode": "US8998968823",
+      "Price": 415.92,
+      "Quantity": 142,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "BLRKPR8ZPFLMDBZ00OHG"
+    }
+  },
+  {
+    "trade_id": "INT_100115",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T11:25:00Z",
+      "InstrumentIdentificationCode": "US0073474935",
+      "Price": 435.99,
+      "Quantity": 139,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "2CO9SMU02TYF9BV5PRE9"
+    }
+  },
+  {
+    "trade_id": "INT_100116",
+    "report_record": {
+      "TradingDateTime": "2024-01-15T13:10:00Z",
+      "InstrumentIdentificationCode": "US5353338622",
+      "Price": 74.85,
+      "Quantity": 196,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "ETWKVD27MI4GDS348U4S"
+    }
+  },
+  {
+    "trade_id": "INT_100117",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T12:17:00Z",
+      "InstrumentIdentificationCode": "US1170647064",
+      "Price": 13.02,
+      "Quantity": 213,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "K15A1GBXDSZKKCLC0BPB"
+    }
+  },
+  {
+    "trade_id": "INT_100118",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T15:47:00Z",
+      "InstrumentIdentificationCode": "US8997078594",
+      "Price": 352.18,
+      "Quantity": 103,
+      "VenueMIC": "BATS",
+      "BuyerLei": "YBLILZIJ57TBA9X0B4NB"
+    }
+  },
+  {
+    "trade_id": "INT_100119",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T21:56:00Z",
+      "InstrumentIdentificationCode": "US3674941719",
+      "Price": 75.92,
+      "Quantity": 112,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "NP9Y569TRCW5PEDUN4NF"
+    }
+  },
+  {
+    "trade_id": "INT_100120",
+    "report_record": {
+      "TradingDateTime": "2024-01-05T23:08:00Z",
+      "InstrumentIdentificationCode": "US6085143670",
+      "Price": 78.37,
+      "Quantity": 266,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "8EI2FY4VBE0YHATW5KXK"
+    }
+  },
+  {
+    "trade_id": "INT_100121",
+    "report_record": {
+      "TradingDateTime": "2024-01-02T18:55:00Z",
+      "InstrumentIdentificationCode": "US3209400135",
+      "Price": 348.85,
+      "Quantity": 22,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "LTTIDS0MMV1VSHHZZWM1"
+    }
+  },
+  {
+    "trade_id": "INT_100122",
+    "report_record": {
+      "TradingDateTime": "2024-01-15T08:50:00Z",
+      "InstrumentIdentificationCode": "US6269951253",
+      "Price": 405.91,
+      "Quantity": 342,
+      "VenueMIC": "BATS",
+      "BuyerLei": "GKDYLZLXPMYDK5GK1WW1"
+    }
+  },
+  {
+    "trade_id": "INT_100123",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T05:13:00Z",
+      "InstrumentIdentificationCode": "US5203202378",
+      "Price": 196.7,
+      "Quantity": 188,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "WYGVQRJJG06A7DQDZDAG"
+    }
+  },
+  {
+    "trade_id": "INT_100124",
+    "report_record": {
+      "TradingDateTime": "2024-01-22T11:08:00Z",
+      "InstrumentIdentificationCode": "US7723138123",
+      "Price": 237.61,
+      "Quantity": 20,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "VKBL39RZGAZWZFFHXVSR"
+    }
+  },
+  {
+    "trade_id": "INT_100125",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T06:16:00Z",
+      "InstrumentIdentificationCode": "US0945685460",
+      "Price": 179.01,
+      "Quantity": 192,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "RCGR64KDRD72XVBFYUP4"
+    }
+  },
+  {
+    "trade_id": "INT_100126",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T14:23:00Z",
+      "InstrumentIdentificationCode": "US2608954649",
+      "Price": 190.04,
+      "Quantity": 173,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "SJ12O8FLM2SCHHTDUCHW"
+    }
+  },
+  {
+    "trade_id": "INT_100127",
+    "report_record": {
+      "TradingDateTime": "2024-01-05T11:57:00Z",
+      "InstrumentIdentificationCode": "US4866518570",
+      "Price": 27.56,
+      "Quantity": 508,
+      "VenueMIC": "BATS",
+      "BuyerLei": "YLYQZN9WFEYRMN1R105I"
+    }
+  },
+  {
+    "trade_id": "INT_100128",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T00:35:00Z",
+      "InstrumentIdentificationCode": "US8129757648",
+      "Price": 295.91,
+      "Quantity": 42,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "LMKS8ZNXAVWSRL116S1Z"
+    }
+  },
+  {
+    "trade_id": "INT_100129",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T21:22:00Z",
+      "InstrumentIdentificationCode": "US5655276654",
+      "Price": 68.15,
+      "Quantity": 246,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "WW53MRWO6UW0RXGT0F0I"
+    }
+  },
+  {
+    "trade_id": "INT_100130",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T06:54:00Z",
+      "InstrumentIdentificationCode": "US9706345408",
+      "Price": 454.47,
+      "Quantity": 65,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "KNBC86XSRX8A9Y7YP72S"
+    }
+  },
+  {
+    "trade_id": "INT_100131",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T02:29:00Z",
+      "InstrumentIdentificationCode": "US0920176118",
+      "Price": 296.06,
+      "Quantity": 26,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "4J3RXI4ODIIZDQPO8EET"
+    }
+  },
+  {
+    "trade_id": "INT_100132",
+    "report_record": {
+      "TradingDateTime": "2024-01-15T01:05:00Z",
+      "InstrumentIdentificationCode": "US3998728424",
+      "Price": 339.07,
+      "Quantity": 148,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "GBWUW2NZE4Y4TQBYM1FC"
+    }
+  },
+  {
+    "trade_id": "INT_100133",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T10:50:00Z",
+      "InstrumentIdentificationCode": "US4252783862",
+      "Price": 95.49,
+      "Quantity": 469,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "HR1PSQMG0J79YFXRWF2Y"
+    }
+  },
+  {
+    "trade_id": "INT_100134",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T18:31:00Z",
+      "InstrumentIdentificationCode": "US9212529457",
+      "Price": 402.61,
+      "Quantity": 382,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "HD8CG0A0PGWK69Q8E5C8"
+    }
+  },
+  {
+    "trade_id": "INT_100135",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T17:19:00Z",
+      "InstrumentIdentificationCode": "US0736115151",
+      "Price": 138.93,
+      "Quantity": 73,
+      "VenueMIC": "BATS",
+      "BuyerLei": "7X553MA7ON27RG24YNH0"
+    }
+  },
+  {
+    "trade_id": "INT_100136",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T11:48:00Z",
+      "InstrumentIdentificationCode": "US8734452419",
+      "Price": 27.8,
+      "Quantity": 97,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "73FQYEETPIEBI9VVV726"
+    }
+  },
+  {
+    "trade_id": "INT_100137",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T02:08:00Z",
+      "InstrumentIdentificationCode": "US7331098635",
+      "Price": 120.16,
+      "Quantity": 74,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "MRMQORW37DCGRGFVAD2U"
+    }
+  },
+  {
+    "trade_id": "INT_100138",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T20:10:00Z",
+      "InstrumentIdentificationCode": "US9272537570",
+      "Price": 96.54,
+      "Quantity": 166,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "32VKT27A43RQNWYOVCS7"
+    }
+  },
+  {
+    "trade_id": "INT_100139",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T11:31:00Z",
+      "InstrumentIdentificationCode": "US5402044579",
+      "Price": 385.87,
+      "Quantity": 48,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "GGO7DNNPG5SBJQLFV5TA"
+    }
+  },
+  {
+    "trade_id": "INT_100140",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T22:17:00Z",
+      "InstrumentIdentificationCode": "US2150669690",
+      "Price": 474.15,
+      "Quantity": 99,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "6PWPN2Z8OCW276WGC54R"
+    }
+  },
+  {
+    "trade_id": "INT_100141",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T21:48:00Z",
+      "InstrumentIdentificationCode": "US3569691340",
+      "Price": 484.03,
+      "Quantity": 45,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "P5O01QB9GMOYWVZ6KJYX"
+    }
+  },
+  {
+    "trade_id": "INT_100142",
+    "report_record": {
+      "TradingDateTime": "2024-01-22T18:56:00Z",
+      "InstrumentIdentificationCode": "US4818783004",
+      "Price": 123.91,
+      "Quantity": 772,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "XJQRTRQIN24DRTIMO0O1"
+    }
+  },
+  {
+    "trade_id": "INT_100143",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T21:39:00Z",
+      "InstrumentIdentificationCode": "US8990142109",
+      "Price": 153.12,
+      "Quantity": 277,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "CZ8H9G9PXAYJPPH21FPT"
+    }
+  },
+  {
+    "trade_id": "INT_100144",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T09:17:00Z",
+      "InstrumentIdentificationCode": "US9960983233",
+      "Price": 240.17,
+      "Quantity": 135,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "6MNX7ZU19BIWOMWQBTTC"
+    }
+  },
+  {
+    "trade_id": "INT_100145",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T04:49:00Z",
+      "InstrumentIdentificationCode": "US2153513542",
+      "Price": 279.97,
+      "Quantity": 256,
+      "VenueMIC": "BATS",
+      "BuyerLei": "0GEKOCEWIOC2FQZUHUKH"
+    }
+  },
+  {
+    "trade_id": "INT_100146",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T01:38:00Z",
+      "InstrumentIdentificationCode": "US6956189900",
+      "Price": 33.37,
+      "Quantity": 137,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "VDRESBLQJ7FHKLIBHK9J"
+    }
+  },
+  {
+    "trade_id": "INT_100147",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T13:27:00Z",
+      "InstrumentIdentificationCode": "US9514541637",
+      "Price": 147.5,
+      "Quantity": 584,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "VJFQXJHUFUX6R15L0J5Z"
+    }
+  },
+  {
+    "trade_id": "INT_100148",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T06:25:00Z",
+      "InstrumentIdentificationCode": "US6670411041",
+      "Price": 328.62,
+      "Quantity": 100,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "JWKBZ96MYDSR3SWPALX7"
+    }
+  },
+  {
+    "trade_id": "INT_100149",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T23:45:00Z",
+      "InstrumentIdentificationCode": "US4952297991",
+      "Price": 482.02,
+      "Quantity": 367,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "GZZXLPWI5OMEKJMOG158"
+    }
+  },
+  {
+    "trade_id": "INT_100150",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T21:20:00Z",
+      "InstrumentIdentificationCode": "US9464067637",
+      "Price": 443.19,
+      "Quantity": 550,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "18E77MNKD6GHJOOE2SJL"
+    }
+  },
+  {
+    "trade_id": "INT_100151",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T18:25:00Z",
+      "InstrumentIdentificationCode": "US7386134284",
+      "Price": 474.1,
+      "Quantity": 118,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "ND2O1PLE7A5ZQ0X8ZWVD"
+    }
+  },
+  {
+    "trade_id": "INT_100152",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T13:55:00Z",
+      "InstrumentIdentificationCode": "US6107767216",
+      "Price": 399.91,
+      "Quantity": 275,
+      "VenueMIC": "BATS",
+      "BuyerLei": "39CVVLUD44WTOW1PUOQM"
+    }
+  },
+  {
+    "trade_id": "INT_100153",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T22:41:00Z",
+      "InstrumentIdentificationCode": "US3333268431",
+      "Price": 8.54,
+      "Quantity": 763,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "JJ0UHA1NU3UIQE4S96MN"
+    }
+  },
+  {
+    "trade_id": "INT_100154",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T04:12:00Z",
+      "InstrumentIdentificationCode": "US0399580694",
+      "Price": 445.77,
+      "Quantity": 158,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "RF2S6ACU8CYT7UWFMWIQ"
+    }
+  },
+  {
+    "trade_id": "INT_100155",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T18:58:00Z",
+      "InstrumentIdentificationCode": "US5993801320",
+      "Price": 434.25,
+      "Quantity": 78,
+      "VenueMIC": "BATS",
+      "BuyerLei": "9DYE3LDX2IDXNERSLRQ3"
+    }
+  },
+  {
+    "trade_id": "INT_100156",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T03:02:00Z",
+      "InstrumentIdentificationCode": "US0872523040",
+      "Price": 96.78,
+      "Quantity": 85,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "1R2RH47G9RIIH8REN13D"
+    }
+  },
+  {
+    "trade_id": "INT_100157",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T05:44:00Z",
+      "InstrumentIdentificationCode": "US1563563780",
+      "Price": 28.72,
+      "Quantity": 98,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "LRBJO3QDG47F7ONF5CCV"
+    }
+  },
+  {
+    "trade_id": "INT_100158",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T15:30:00Z",
+      "InstrumentIdentificationCode": "US0671396703",
+      "Price": 112.64,
+      "Quantity": 772,
+      "VenueMIC": "BATS",
+      "BuyerLei": "DX8CD84YMDNM0FQ98QBM"
+    }
+  },
+  {
+    "trade_id": "INT_100159",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T15:38:00Z",
+      "InstrumentIdentificationCode": "US5622974366",
+      "Price": 56.69,
+      "Quantity": 72,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "J6P8CEZKGJ7CH4KGBF5T"
+    }
+  },
+  {
+    "trade_id": "INT_100160",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T06:39:00Z",
+      "InstrumentIdentificationCode": "US6605655153",
+      "Price": 290.79,
+      "Quantity": 417,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "ER34JORW6P871B3MPE1T"
+    }
+  },
+  {
+    "trade_id": "INT_100161",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T11:41:00Z",
+      "InstrumentIdentificationCode": "US9694546149",
+      "Price": 288.23,
+      "Quantity": 231,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "DC2K6K06U4B09KRA8841"
+    }
+  },
+  {
+    "trade_id": "INT_100162",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T18:18:00Z",
+      "InstrumentIdentificationCode": "US3221194811",
+      "Price": 159.27,
+      "Quantity": 181,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "FCJEZUZZHEOPAPC4MPUB"
+    }
+  },
+  {
+    "trade_id": "INT_100163",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T21:13:00Z",
+      "InstrumentIdentificationCode": "US8770465472",
+      "Price": 17.37,
+      "Quantity": 272,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "42IO3ZJ2P9TVGW2P14N6"
+    }
+  },
+  {
+    "trade_id": "INT_100164",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T11:10:00Z",
+      "InstrumentIdentificationCode": "US7920764969",
+      "Price": 481.55,
+      "Quantity": 347,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "YCFFBRWBLVTXTAAQA3CK"
+    }
+  },
+  {
+    "trade_id": "INT_100165",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T21:31:00Z",
+      "InstrumentIdentificationCode": "US9079273702",
+      "Price": 82.6,
+      "Quantity": 225,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "ZDE8MJKR7WGCLGZ6OBG5"
+    }
+  },
+  {
+    "trade_id": "INT_100166",
+    "report_record": {
+      "TradingDateTime": "2024-01-18T12:51:00Z",
+      "InstrumentIdentificationCode": "US0725386892",
+      "Price": 53.32,
+      "Quantity": 47,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "PRVBU92ZUQP4I4NBN68T"
+    }
+  },
+  {
+    "trade_id": "INT_100167",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T21:24:00Z",
+      "InstrumentIdentificationCode": "US3662409990",
+      "Price": 123.47,
+      "Quantity": 255,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "NYOF2O2DRPKNCRTYMDN6"
+    }
+  },
+  {
+    "trade_id": "INT_100168",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T23:03:00Z",
+      "InstrumentIdentificationCode": "US1454890212",
+      "Price": 202.72,
+      "Quantity": 98,
+      "VenueMIC": "BATS",
+      "BuyerLei": "YM8WIB4B5RMEJY73GFCM"
+    }
+  },
+  {
+    "trade_id": "INT_100169",
+    "report_record": {
+      "TradingDateTime": "2024-01-05T08:29:00Z",
+      "InstrumentIdentificationCode": "US4590903161",
+      "Price": 76.43,
+      "Quantity": 116,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "V33H7ITYSEKOHSW05Z0S"
+    }
+  },
+  {
+    "trade_id": "INT_100170",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T15:34:00Z",
+      "InstrumentIdentificationCode": "US0242066974",
+      "Price": 300.83,
+      "Quantity": 169,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "W6R3ZPM6ZABFXR0H1JQ2"
+    }
+  },
+  {
+    "trade_id": "INT_100171",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T01:25:00Z",
+      "InstrumentIdentificationCode": "US9625266718",
+      "Price": 226.2,
+      "Quantity": 72,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "IOBYM778CFSCRILECK3D"
+    }
+  },
+  {
+    "trade_id": "INT_100172",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T13:15:00Z",
+      "InstrumentIdentificationCode": "US1814725369",
+      "Price": 208.51,
+      "Quantity": 66,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "J5BXWB4Z2CNYACZRIWUA"
+    }
+  },
+  {
+    "trade_id": "INT_100173",
+    "report_record": {
+      "TradingDateTime": "2024-01-15T11:38:00Z",
+      "InstrumentIdentificationCode": "US6307932617",
+      "Price": 484.26,
+      "Quantity": 57,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "KE80BX46314KWB08BUEU"
+    }
+  },
+  {
+    "trade_id": "INT_100174",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T15:01:00Z",
+      "InstrumentIdentificationCode": "US1818958820",
+      "Price": 305.85,
+      "Quantity": 103,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "3E7VMCT4EX6HXTPLMY5X"
+    }
+  },
+  {
+    "trade_id": "INT_100175",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T07:03:00Z",
+      "InstrumentIdentificationCode": "US6113045897",
+      "Price": 195.63,
+      "Quantity": 232,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "P8ZR2WNO6YUQWQN2T3SM"
+    }
+  },
+  {
+    "trade_id": "INT_100176",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T11:50:00Z",
+      "InstrumentIdentificationCode": "US1805025274",
+      "Price": 387.72,
+      "Quantity": 217,
+      "VenueMIC": "BATS",
+      "BuyerLei": "Z3PGP8PL8U9Q5FX0TYBI"
+    }
+  },
+  {
+    "trade_id": "INT_100177",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T17:06:00Z",
+      "InstrumentIdentificationCode": "US5606045198",
+      "Price": 437.83,
+      "Quantity": 155,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "425QN9X0Y5RRZI8HTVS3"
+    }
+  },
+  {
+    "trade_id": "INT_100178",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T19:42:00Z",
+      "InstrumentIdentificationCode": "US0636244191",
+      "Price": 60.45,
+      "Quantity": 600,
+      "VenueMIC": "BATS",
+      "BuyerLei": "1BH2KRNJ8I8KLCN1KYUJ"
+    }
+  },
+  {
+    "trade_id": "INT_100179",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T05:35:00Z",
+      "InstrumentIdentificationCode": "US4316437882",
+      "Price": 326.52,
+      "Quantity": 391,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "Q47FVNCL9LBBOW2Q5G31"
+    }
+  },
+  {
+    "trade_id": "INT_100180",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T06:40:00Z",
+      "InstrumentIdentificationCode": "US5275174775",
+      "Price": 82.15,
+      "Quantity": 176,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "L1GWU7KV821RNR1XHHD0"
+    }
+  },
+  {
+    "trade_id": "INT_100181",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T12:32:00Z",
+      "InstrumentIdentificationCode": "US7698416766",
+      "Price": 315.96,
+      "Quantity": 219,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "RYG1EC4TSKCWGWG7SIRY"
+    }
+  },
+  {
+    "trade_id": "INT_100182",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T22:42:00Z",
+      "InstrumentIdentificationCode": "US6793224092",
+      "Price": 490.8,
+      "Quantity": 148,
+      "VenueMIC": "BATS",
+      "BuyerLei": "3BIB26J7H6FS50A65EQH"
+    }
+  },
+  {
+    "trade_id": "INT_100183",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T06:47:00Z",
+      "InstrumentIdentificationCode": "US2164531826",
+      "Price": 189.0,
+      "Quantity": 507,
+      "VenueMIC": "BATS",
+      "BuyerLei": "8H0175OQ6P2I62MUUEJF"
+    }
+  },
+  {
+    "trade_id": "INT_100184",
+    "report_record": {
+      "TradingDateTime": "2024-01-22T01:48:00Z",
+      "InstrumentIdentificationCode": "US3879808298",
+      "Price": 137.29,
+      "Quantity": 140,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "AD3L8M4WDPGV2K62LGZI"
+    }
+  },
+  {
+    "trade_id": "INT_100185",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T20:28:00Z",
+      "InstrumentIdentificationCode": "US8701170394",
+      "Price": 468.08,
+      "Quantity": 189,
+      "VenueMIC": "BATS",
+      "BuyerLei": "U4EM1Y8G5CVHQ06QL0HW"
+    }
+  },
+  {
+    "trade_id": "INT_100186",
+    "report_record": {
+      "TradingDateTime": "2024-01-15T20:00:00Z",
+      "InstrumentIdentificationCode": "US1302777554",
+      "Price": 106.58,
+      "Quantity": 67,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "L5YRO5F87ERPHY5ZV4JL"
+    }
+  },
+  {
+    "trade_id": "INT_100187",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T18:59:00Z",
+      "InstrumentIdentificationCode": "US6895573264",
+      "Price": 484.56,
+      "Quantity": 289,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "7GWGYCT73QJ8TR09W5JK"
+    }
+  },
+  {
+    "trade_id": "INT_100188",
+    "report_record": {
+      "TradingDateTime": "2024-01-15T13:28:00Z",
+      "InstrumentIdentificationCode": "US1340775472",
+      "Price": 485.37,
+      "Quantity": 46,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "LJGA9UXYGQ23G6GXKIL8"
+    }
+  },
+  {
+    "trade_id": "INT_100189",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T06:51:00Z",
+      "InstrumentIdentificationCode": "US6294670161",
+      "Price": 270.86,
+      "Quantity": 26,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "BPMQUSGHMBKXFZGSF2BS"
+    }
+  },
+  {
+    "trade_id": "INT_100190",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T22:40:00Z",
+      "InstrumentIdentificationCode": "US6880025190",
+      "Price": 133.06,
+      "Quantity": 22,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "0Q29ZQVYBVED9FUMYZT6"
+    }
+  },
+  {
+    "trade_id": "INT_100191",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T11:57:00Z",
+      "InstrumentIdentificationCode": "US7377282015",
+      "Price": 336.23,
+      "Quantity": 127,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "0NXC38NL12QUWTK7JJF9"
+    }
+  },
+  {
+    "trade_id": "INT_100192",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T00:54:00Z",
+      "InstrumentIdentificationCode": "US9845051587",
+      "Price": 156.32,
+      "Quantity": 38,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "9LKLGK946MRXI4JBOC4F"
+    }
+  },
+  {
+    "trade_id": "INT_100193",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T16:42:00Z",
+      "InstrumentIdentificationCode": "US3958116113",
+      "Price": 217.31,
+      "Quantity": 104,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "G3EKA7ASBUTWUXDLVTRA"
+    }
+  },
+  {
+    "trade_id": "INT_100194",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T08:55:00Z",
+      "InstrumentIdentificationCode": "US3476775915",
+      "Price": 158.14,
+      "Quantity": 248,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "CJNL3555ZABQ3G0IV7AI"
+    }
+  },
+  {
+    "trade_id": "INT_100195",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T18:20:00Z",
+      "InstrumentIdentificationCode": "US8851968526",
+      "Price": 297.69,
+      "Quantity": 101,
+      "VenueMIC": "BATS",
+      "BuyerLei": "SQZVH6B3TRJXDDMYMRXB"
+    }
+  },
+  {
+    "trade_id": "INT_100196",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T18:58:00Z",
+      "InstrumentIdentificationCode": "US2869094828",
+      "Price": 295.74,
+      "Quantity": 155,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "F7I6F472N99OHZ9U1DPV"
+    }
+  },
+  {
+    "trade_id": "INT_100197",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T21:29:00Z",
+      "InstrumentIdentificationCode": "US1996106403",
+      "Price": 203.01,
+      "Quantity": 53,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "67JTAMAEPO14WQ7MNK15"
+    }
+  },
+  {
+    "trade_id": "INT_100198",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T02:39:00Z",
+      "InstrumentIdentificationCode": "US0897414503",
+      "Price": 270.06,
+      "Quantity": 75,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "LJ7J3VFB3B5PLAHMOHJE"
+    }
+  },
+  {
+    "trade_id": "INT_100199",
+    "report_record": {
+      "TradingDateTime": "2024-01-18T20:58:00Z",
+      "InstrumentIdentificationCode": "US3341819198",
+      "Price": 419.54,
+      "Quantity": 150,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "FNDZQSF2KP3YKGZVYS4Z"
+    }
+  },
+  {
+    "trade_id": "INT_100200",
+    "report_record": {
+      "TradingDateTime": "2024-01-13T19:34:00Z",
+      "InstrumentIdentificationCode": "US8118284517",
+      "Price": 245.39,
+      "Quantity": 39,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "AJD8JKNLQP8BKC2RTN74"
+    }
+  },
+  {
+    "trade_id": "INT_100201",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T06:55:00Z",
+      "InstrumentIdentificationCode": "US8277225030",
+      "Price": 191.7,
+      "Quantity": 135,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "KT8KHD030UTDKMIDLIMZ"
+    }
+  },
+  {
+    "trade_id": "INT_100202",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T09:42:00Z",
+      "InstrumentIdentificationCode": "US9272094195",
+      "Price": 7.33,
+      "Quantity": 384,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "MPBQ5HCLTPNP63LOR1WN"
+    }
+  },
+  {
+    "trade_id": "INT_100203",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T18:05:00Z",
+      "InstrumentIdentificationCode": "US6395785835",
+      "Price": 337.78,
+      "Quantity": 1554,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "WEYHPOAVCN9RRCJA00KE"
+    }
+  },
+  {
+    "trade_id": "INT_100204",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T04:07:00Z",
+      "InstrumentIdentificationCode": "US2463428986",
+      "Price": 158.32,
+      "Quantity": 314,
+      "VenueMIC": "BATS",
+      "BuyerLei": "OD6X9J9TKLR3TYLUYKIY"
+    }
+  },
+  {
+    "trade_id": "INT_100205",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T07:44:00Z",
+      "InstrumentIdentificationCode": "US0087448226",
+      "Price": 234.46,
+      "Quantity": 63,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "AZYPOZPN2XOSH7B0J8WH"
+    }
+  },
+  {
+    "trade_id": "INT_100206",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T15:09:00Z",
+      "InstrumentIdentificationCode": "US0300906631",
+      "Price": 47.47,
+      "Quantity": 32,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "AQ4J2RFLNJTO4GJJ13CO"
+    }
+  },
+  {
+    "trade_id": "INT_100207",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T20:39:00Z",
+      "InstrumentIdentificationCode": "US3869675729",
+      "Price": 384.0,
+      "Quantity": 383,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "RGZHF3W5VI4GIMC86U47"
+    }
+  },
+  {
+    "trade_id": "INT_100208",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T21:57:00Z",
+      "InstrumentIdentificationCode": "US4032045125",
+      "Price": 208.41,
+      "Quantity": 734,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "I5FN1XMLSU0SXZ1R92QD"
+    }
+  },
+  {
+    "trade_id": "INT_100209",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T22:18:00Z",
+      "InstrumentIdentificationCode": "US3982188059",
+      "Price": 60.96,
+      "Quantity": 260,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "CDOHSZJNS3E4GS4X7WF9"
+    }
+  },
+  {
+    "trade_id": "INT_100210",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T15:47:00Z",
+      "InstrumentIdentificationCode": "US8957893071",
+      "Price": 187.09,
+      "Quantity": 272,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "NYOBXNG9X030OZAD2AVK"
+    }
+  },
+  {
+    "trade_id": "INT_100211",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T01:20:00Z",
+      "InstrumentIdentificationCode": "US7948505557",
+      "Price": 44.43,
+      "Quantity": 105,
+      "VenueMIC": "BATS",
+      "BuyerLei": "NE957GJQ3UMAA6YZM163"
+    }
+  },
+  {
+    "trade_id": "INT_100212",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T07:12:00Z",
+      "InstrumentIdentificationCode": "US7047580809",
+      "Price": 185.24,
+      "Quantity": 141,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "Q9QLTCDQO6PKTXP37AXX"
+    }
+  },
+  {
+    "trade_id": "INT_100213",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T22:51:00Z",
+      "InstrumentIdentificationCode": "US2599824496",
+      "Price": 101.55,
+      "Quantity": 43,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "QK38V08DPPUZ9SQZV1A9"
+    }
+  },
+  {
+    "trade_id": "INT_100214",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T14:40:00Z",
+      "InstrumentIdentificationCode": "US5481979806",
+      "Price": 343.3,
+      "Quantity": 39,
+      "VenueMIC": "BATS",
+      "BuyerLei": "VRWBK46NPK6G4N1PSQZF"
+    }
+  },
+  {
+    "trade_id": "INT_100215",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T15:13:00Z",
+      "InstrumentIdentificationCode": "US6554332976",
+      "Price": 49.31,
+      "Quantity": 71,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "LAUSURC5JOED1DOQCJWR"
+    }
+  },
+  {
+    "trade_id": "INT_100216",
+    "report_record": {
+      "TradingDateTime": "2024-01-13T22:17:00Z",
+      "InstrumentIdentificationCode": "US0224280399",
+      "Price": 173.13,
+      "Quantity": 212,
+      "VenueMIC": "BATS",
+      "BuyerLei": "WDU4UZ8XK2CASVNNP6ML"
+    }
+  },
+  {
+    "trade_id": "INT_100217",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T18:14:00Z",
+      "InstrumentIdentificationCode": "US0458039798",
+      "Price": 226.14,
+      "Quantity": 59,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "1SW5M676ECGXVW3R5G6E"
+    }
+  },
+  {
+    "trade_id": "INT_100218",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T19:19:00Z",
+      "InstrumentIdentificationCode": "US3314084519",
+      "Price": 305.31,
+      "Quantity": 25,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "UZWR4LAICZIPXNC76XIM"
+    }
+  },
+  {
+    "trade_id": "INT_100219",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T14:54:00Z",
+      "InstrumentIdentificationCode": "US2850463794",
+      "Price": 99.98,
+      "Quantity": 62,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "T2FQYD3TCWRZ9HQ460DV"
+    }
+  },
+  {
+    "trade_id": "INT_100220",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T21:11:00Z",
+      "InstrumentIdentificationCode": "US2460677855",
+      "Price": 354.83,
+      "Quantity": 169,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "P6SUVIII0QHPR6ALFEPR"
+    }
+  },
+  {
+    "trade_id": "INT_100221",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T04:34:00Z",
+      "InstrumentIdentificationCode": "US2989467211",
+      "Price": 452.5,
+      "Quantity": 244,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "PPGNY5VP2PLQ0YMHELC8"
+    }
+  },
+  {
+    "trade_id": "INT_100222",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T18:57:00Z",
+      "InstrumentIdentificationCode": "US8811630712",
+      "Price": 487.3,
+      "Quantity": 381,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "VQW9IB5VMHAQLDM4GWXE"
+    }
+  },
+  {
+    "trade_id": "INT_100223",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T00:05:00Z",
+      "InstrumentIdentificationCode": "US2419471739",
+      "Price": 263.75,
+      "Quantity": 170,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "WCCG98OC23RKA2J14SC9"
+    }
+  },
+  {
+    "trade_id": "INT_100224",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T20:24:00Z",
+      "InstrumentIdentificationCode": "US2930304467",
+      "Price": 382.21,
+      "Quantity": 156,
+      "VenueMIC": "BATS",
+      "BuyerLei": "MNJ4W0FZBMSA5V2BKQHV"
+    }
+  },
+  {
+    "trade_id": "INT_100225",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T19:20:00Z",
+      "InstrumentIdentificationCode": "US1544927747",
+      "Price": 154.11,
+      "Quantity": 92,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "BA9LI916VYRFRPOHMGQ5"
+    }
+  },
+  {
+    "trade_id": "INT_100226",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T07:40:00Z",
+      "InstrumentIdentificationCode": "US6550492692",
+      "Price": 466.66,
+      "Quantity": 99,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "GWSVMUAS6DC081FFW6PX"
+    }
+  },
+  {
+    "trade_id": "INT_100227",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T00:12:00Z",
+      "InstrumentIdentificationCode": "US4412986021",
+      "Price": 118.81,
+      "Quantity": 721,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "5RQ7G83L8KDY5T4DACVQ"
+    }
+  },
+  {
+    "trade_id": "INT_100228",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T13:49:00Z",
+      "InstrumentIdentificationCode": "US9217251638",
+      "Price": 151.4,
+      "Quantity": 395,
+      "VenueMIC": "BATS",
+      "BuyerLei": "M4PF15JRDIGHGCQBO2VD"
+    }
+  },
+  {
+    "trade_id": "INT_100229",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T23:01:00Z",
+      "InstrumentIdentificationCode": "US9072521408",
+      "Price": 42.23,
+      "Quantity": 289,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "ILOU86SWMA2XPYW1PKCO"
+    }
+  },
+  {
+    "trade_id": "INT_100230",
+    "report_record": {
+      "TradingDateTime": "2024-01-15T14:40:00Z",
+      "InstrumentIdentificationCode": "US8963506536",
+      "Price": 432.43,
+      "Quantity": 286,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "9EWOF6SM2FOPXWJQ3JS2"
+    }
+  },
+  {
+    "trade_id": "INT_100231",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T07:21:00Z",
+      "InstrumentIdentificationCode": "US7525169637",
+      "Price": 236.89,
+      "Quantity": 94,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "232ZSZ033CGIMOE2800H"
+    }
+  },
+  {
+    "trade_id": "INT_100232",
+    "report_record": {
+      "TradingDateTime": "2024-01-13T08:41:00Z",
+      "InstrumentIdentificationCode": "US2578541181",
+      "Price": 454.68,
+      "Quantity": 118,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "K2QZWTBX40BNDM98HBF4"
+    }
+  },
+  {
+    "trade_id": "INT_100233",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T20:04:00Z",
+      "InstrumentIdentificationCode": "US9623983214",
+      "Price": 389.4,
+      "Quantity": 35,
+      "VenueMIC": "BATS",
+      "BuyerLei": "2YUCRXJ0LGQAZO648AHL"
+    }
+  },
+  {
+    "trade_id": "INT_100234",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T18:58:00Z",
+      "InstrumentIdentificationCode": "US8025734856",
+      "Price": 170.02,
+      "Quantity": 146,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "W7K76ZBWV7OJO2WQI9IP"
+    }
+  },
+  {
+    "trade_id": "INT_100235",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T10:30:00Z",
+      "InstrumentIdentificationCode": "US5935535972",
+      "Price": 99.57,
+      "Quantity": 105,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "ZLNYHD1GJ9BZNPQVDSBI"
+    }
+  },
+  {
+    "trade_id": "INT_100236",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T19:36:00Z",
+      "InstrumentIdentificationCode": "US1644683898",
+      "Price": 306.24,
+      "Quantity": 310,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "VEDI2V0JPJFEFYD58J79"
+    }
+  },
+  {
+    "trade_id": "INT_100237",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T20:42:00Z",
+      "InstrumentIdentificationCode": "US1808065622",
+      "Price": 311.58,
+      "Quantity": 73,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "SFAH6UXYS2JL6GQJ4FQR"
+    }
+  },
+  {
+    "trade_id": "INT_100238",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T06:39:00Z",
+      "InstrumentIdentificationCode": "US7752014949",
+      "Price": 91.14,
+      "Quantity": 63,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "TZSLU7G8OAZ8YOVFOXUG"
+    }
+  },
+  {
+    "trade_id": "INT_100239",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T03:09:00Z",
+      "InstrumentIdentificationCode": "US4435120117",
+      "Price": 208.82,
+      "Quantity": 91,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "C8W13R96ZQGH4L4SJLTG"
+    }
+  },
+  {
+    "trade_id": "INT_100240",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T10:21:00Z",
+      "InstrumentIdentificationCode": "US6983927080",
+      "Price": 399.44,
+      "Quantity": 344,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "MLUJT91XEL8BIVELAVSP"
+    }
+  },
+  {
+    "trade_id": "INT_100241",
+    "report_record": {
+      "TradingDateTime": "2024-01-18T07:18:00Z",
+      "InstrumentIdentificationCode": "US1991296268",
+      "Price": 429.59,
+      "Quantity": 271,
+      "VenueMIC": "BATS",
+      "BuyerLei": "XHI3SPXU9FENDHXKQUZ0"
+    }
+  },
+  {
+    "trade_id": "INT_100242",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T06:44:00Z",
+      "InstrumentIdentificationCode": "US5761438905",
+      "Price": 266.26,
+      "Quantity": 137,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "PPFUD711QNGVA243OR83"
+    }
+  },
+  {
+    "trade_id": "INT_100243",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T17:59:00Z",
+      "InstrumentIdentificationCode": "US6721726058",
+      "Price": 478.34,
+      "Quantity": 394,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "9I92XEZN2FGRWAD8W0ZH"
+    }
+  },
+  {
+    "trade_id": "INT_100244",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T13:54:00Z",
+      "InstrumentIdentificationCode": "US4395937240",
+      "Price": 212.87,
+      "Quantity": 145,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "0TO01Y6NHNAPRGOXMIO8"
+    }
+  },
+  {
+    "trade_id": "INT_100245",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T16:07:00Z",
+      "InstrumentIdentificationCode": "US6705644625",
+      "Price": 16.16,
+      "Quantity": 25,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "23ZV62VMIXO9M0GHNL9Q"
+    }
+  },
+  {
+    "trade_id": "INT_100246",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T00:01:00Z",
+      "InstrumentIdentificationCode": "US7406082259",
+      "Price": 62.59,
+      "Quantity": 409,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "QUKGEUR8TOEMLUFGZHI0"
+    }
+  },
+  {
+    "trade_id": "INT_100247",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T11:51:00Z",
+      "InstrumentIdentificationCode": "US6420848934",
+      "Price": 439.67,
+      "Quantity": 291,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "3XG9POWL2O2UONPOD0W2"
+    }
+  },
+  {
+    "trade_id": "INT_100248",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T14:22:00Z",
+      "InstrumentIdentificationCode": "US4873649344",
+      "Price": 196.94,
+      "Quantity": 72,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "CUFREIT1ZRSCI94QW7EO"
+    }
+  },
+  {
+    "trade_id": "INT_100249",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T13:54:00Z",
+      "InstrumentIdentificationCode": "US3740805029",
+      "Price": 377.64,
+      "Quantity": 32,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "YVOJTWABSNHLZ02OA1CR"
+    }
+  },
+  {
+    "trade_id": "INT_100250",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T10:39:00Z",
+      "InstrumentIdentificationCode": "US8967259505",
+      "Price": 401.18,
+      "Quantity": 361,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "KZXM5DMI7GALUKN77YDZ"
+    }
+  },
+  {
+    "trade_id": "INT_100251",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T12:17:00Z",
+      "InstrumentIdentificationCode": "US2524327925",
+      "Price": 328.61,
+      "Quantity": 80,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "ZJDBCGP4JS1Q1SWTMMKO"
+    }
+  },
+  {
+    "trade_id": "INT_100252",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T12:11:00Z",
+      "InstrumentIdentificationCode": "US3556461097",
+      "Price": 178.18,
+      "Quantity": 48,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "M0OV3778SH61Y9QXUB46"
+    }
+  },
+  {
+    "trade_id": "INT_100253",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T07:46:00Z",
+      "InstrumentIdentificationCode": "US3779797378",
+      "Price": 198.59,
+      "Quantity": 14,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "MU18WOBL9CECSBQN10JC"
+    }
+  },
+  {
+    "trade_id": "INT_100254",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T11:04:00Z",
+      "InstrumentIdentificationCode": "US6483954044",
+      "Price": 135.31,
+      "Quantity": 87,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "FPZEIN3Z2SHW8485EPQ5"
+    }
+  },
+  {
+    "trade_id": "INT_100255",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T13:51:00Z",
+      "InstrumentIdentificationCode": "US7131092756",
+      "Price": 344.89,
+      "Quantity": 72,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "7PGPG0NN66T9G5C2XVFX"
+    }
+  },
+  {
+    "trade_id": "INT_100256",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T12:21:00Z",
+      "InstrumentIdentificationCode": "US5704275166",
+      "Price": 179.39,
+      "Quantity": 272,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "YB9RESR5UJVMQIXNHS13"
+    }
+  },
+  {
+    "trade_id": "INT_100257",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T03:37:00Z",
+      "InstrumentIdentificationCode": "US5472612146",
+      "Price": 60.69,
+      "Quantity": 281,
+      "VenueMIC": "BATS",
+      "BuyerLei": "44MNY66OPFYODD37045I"
+    }
+  },
+  {
+    "trade_id": "INT_100258",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T16:45:00Z",
+      "InstrumentIdentificationCode": "US6468133127",
+      "Price": 101.88,
+      "Quantity": 117,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "4QY5LMSY4YPWNFYWLM97"
+    }
+  },
+  {
+    "trade_id": "INT_100259",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T15:27:00Z",
+      "InstrumentIdentificationCode": "US3777701382",
+      "Price": 406.01,
+      "Quantity": 48,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "6P2WX7GD7VEWO4IYYUIV"
+    }
+  },
+  {
+    "trade_id": "INT_100260",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T09:32:00Z",
+      "InstrumentIdentificationCode": "US0530835678",
+      "Price": 10.64,
+      "Quantity": 330,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "5Q8A2DW1PLUQM5OLO7FQ"
+    }
+  },
+  {
+    "trade_id": "INT_100261",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T00:08:00Z",
+      "InstrumentIdentificationCode": "US6057082005",
+      "Price": 407.4,
+      "Quantity": 1164,
+      "VenueMIC": "BATS",
+      "BuyerLei": "S1WDTS07DGGZZSITPQVM"
+    }
+  },
+  {
+    "trade_id": "INT_100262",
+    "report_record": {
+      "TradingDateTime": "2024-01-22T03:11:00Z",
+      "InstrumentIdentificationCode": "US7451182594",
+      "Price": 410.46,
+      "Quantity": 151,
+      "VenueMIC": "BATS",
+      "BuyerLei": "NOQR5WW8OX1PPFBMI7Q0"
+    }
+  },
+  {
+    "trade_id": "INT_100263",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T03:30:00Z",
+      "InstrumentIdentificationCode": "US6160865120",
+      "Price": 368.14,
+      "Quantity": 277,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "5UXRUJXUYWVD7F148WFP"
+    }
+  },
+  {
+    "trade_id": "INT_100264",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T18:45:00Z",
+      "InstrumentIdentificationCode": "US8616207276",
+      "Price": 330.43,
+      "Quantity": 136,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "KJZTQQDEWJ16Z20RJEJU"
+    }
+  },
+  {
+    "trade_id": "INT_100265",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T10:15:00Z",
+      "InstrumentIdentificationCode": "US8411609193",
+      "Price": 88.71,
+      "Quantity": 399,
+      "VenueMIC": "BATS",
+      "BuyerLei": "EY7IFRNSNQ82QHA9GEX1"
+    }
+  },
+  {
+    "trade_id": "INT_100266",
+    "report_record": {
+      "TradingDateTime": "2024-01-13T23:00:00Z",
+      "InstrumentIdentificationCode": "US2492720885",
+      "Price": 495.93,
+      "Quantity": 92,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "MAYD9J1F0LC6J4OG9NNC"
+    }
+  },
+  {
+    "trade_id": "INT_100267",
+    "report_record": {
+      "TradingDateTime": "2024-01-18T07:45:00Z",
+      "InstrumentIdentificationCode": "US5225498022",
+      "Price": 168.06,
+      "Quantity": 1080,
+      "VenueMIC": "BATS",
+      "BuyerLei": "8D6M9SLKFL0YCCT1WCXF"
+    }
+  },
+  {
+    "trade_id": "INT_100268",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T22:19:00Z",
+      "InstrumentIdentificationCode": "US4152541448",
+      "Price": 438.96,
+      "Quantity": 712,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "ZTS0YW2OCJOPQSKEENZH"
+    }
+  },
+  {
+    "trade_id": "INT_100269",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T22:07:00Z",
+      "InstrumentIdentificationCode": "US4783370353",
+      "Price": 362.15,
+      "Quantity": 72,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "92ND9MR6UPOEFCL96964"
+    }
+  },
+  {
+    "trade_id": "INT_100270",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T13:59:00Z",
+      "InstrumentIdentificationCode": "US9150634508",
+      "Price": 393.95,
+      "Quantity": 124,
+      "VenueMIC": "BATS",
+      "BuyerLei": "0VPBERC0QPFGNO602E25"
+    }
+  },
+  {
+    "trade_id": "INT_100271",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T19:13:00Z",
+      "InstrumentIdentificationCode": "US3788729308",
+      "Price": 428.86,
+      "Quantity": 1830,
+      "VenueMIC": "BATS",
+      "BuyerLei": "AZ1IVH0SYUXXSBN551ML"
+    }
+  },
+  {
+    "trade_id": "INT_100272",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T08:43:00Z",
+      "InstrumentIdentificationCode": "US2130286606",
+      "Price": 276.83,
+      "Quantity": 112,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "4W0V0DXWSC0C1Q4JV3U9"
+    }
+  },
+  {
+    "trade_id": "INT_100273",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T11:23:00Z",
+      "InstrumentIdentificationCode": "US5830096215",
+      "Price": 9.03,
+      "Quantity": 26,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "3YUU1T7ERKQVTF7NWTM5"
+    }
+  },
+  {
+    "trade_id": "INT_100274",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T13:33:00Z",
+      "InstrumentIdentificationCode": "US7755798400",
+      "Price": 407.53,
+      "Quantity": 134,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "EWPVH6PEPGAIRCX1JIM8"
+    }
+  },
+  {
+    "trade_id": "INT_100275",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T10:56:00Z",
+      "InstrumentIdentificationCode": "US6347337454",
+      "Price": 108.84,
+      "Quantity": 837,
+      "VenueMIC": "BATS",
+      "BuyerLei": "RLQOGNAC4MRQQKTJ27QM"
+    }
+  },
+  {
+    "trade_id": "INT_100276",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T20:15:00Z",
+      "InstrumentIdentificationCode": "US5491488169",
+      "Price": 212.1,
+      "Quantity": 409,
+      "VenueMIC": "BATS",
+      "BuyerLei": "NIC2S95G1REWVZLSAC0R"
+    }
+  },
+  {
+    "trade_id": "INT_100277",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T19:16:00Z",
+      "InstrumentIdentificationCode": "US0939414937",
+      "Price": 128.16,
+      "Quantity": 99,
+      "VenueMIC": "BATS",
+      "BuyerLei": "ZZ9AOAKBA4PVRQ3J8UPF"
+    }
+  },
+  {
+    "trade_id": "INT_100278",
+    "report_record": {
+      "TradingDateTime": "2024-01-18T00:44:00Z",
+      "InstrumentIdentificationCode": "US9575357791",
+      "Price": 135.15,
+      "Quantity": 78,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "MLIDX7EODHX10A7QZXU3"
+    }
+  },
+  {
+    "trade_id": "INT_100279",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T05:12:00Z",
+      "InstrumentIdentificationCode": "US4222503724",
+      "Price": 150.96,
+      "Quantity": 654,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "CECMS8XXQJBWFBU82G2W"
+    }
+  },
+  {
+    "trade_id": "INT_100280",
+    "report_record": {
+      "TradingDateTime": "2024-01-22T02:23:00Z",
+      "InstrumentIdentificationCode": "US4799469215",
+      "Price": 24.43,
+      "Quantity": 62,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "06V2SSFSMZVU9B30GT4W"
+    }
+  },
+  {
+    "trade_id": "INT_100281",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T13:12:00Z",
+      "InstrumentIdentificationCode": "US3299120970",
+      "Price": 331.61,
+      "Quantity": 61,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "D9A6GK0NVPLJXRVIQMFU"
+    }
+  },
+  {
+    "trade_id": "INT_100282",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T20:40:00Z",
+      "InstrumentIdentificationCode": "US9147497789",
+      "Price": 392.55,
+      "Quantity": 121,
+      "VenueMIC": "BATS",
+      "BuyerLei": "WICHDL4YPNMGLDB8CDLS"
+    }
+  },
+  {
+    "trade_id": "INT_100283",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T13:36:00Z",
+      "InstrumentIdentificationCode": "US8848686817",
+      "Price": 381.64,
+      "Quantity": 774,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "7SG4RN9QIT1T90H5AQIT"
+    }
+  },
+  {
+    "trade_id": "INT_100284",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T08:31:00Z",
+      "InstrumentIdentificationCode": "US8350842308",
+      "Price": 282.14,
+      "Quantity": 218,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "MD9NRH50WGLYCZD9O52J"
+    }
+  },
+  {
+    "trade_id": "INT_100285",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T04:31:00Z",
+      "InstrumentIdentificationCode": "US2321980176",
+      "Price": 303.8,
+      "Quantity": 66,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "MAPV5POLAQ1GIVZLGOUN"
+    }
+  },
+  {
+    "trade_id": "INT_100286",
+    "report_record": {
+      "TradingDateTime": "2024-01-13T01:09:00Z",
+      "InstrumentIdentificationCode": "US4808539684",
+      "Price": 260.83,
+      "Quantity": 85,
+      "VenueMIC": "BATS",
+      "BuyerLei": "BMWY1K6XB3Q7VEPMZ4WL"
+    }
+  },
+  {
+    "trade_id": "INT_100287",
+    "report_record": {
+      "TradingDateTime": "2024-01-15T12:10:00Z",
+      "InstrumentIdentificationCode": "US1398983824",
+      "Price": 175.05,
+      "Quantity": 64,
+      "VenueMIC": "BATS",
+      "BuyerLei": "PT5WQPHS37NVQO5MU608"
+    }
+  },
+  {
+    "trade_id": "INT_100288",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T00:46:00Z",
+      "InstrumentIdentificationCode": "US8300616698",
+      "Price": 469.6,
+      "Quantity": 212,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "MTOD71B3ZZT1TKJWSR0F"
+    }
+  },
+  {
+    "trade_id": "INT_100289",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T21:15:00Z",
+      "InstrumentIdentificationCode": "US4161419168",
+      "Price": 97.19,
+      "Quantity": 255,
+      "VenueMIC": "BATS",
+      "BuyerLei": "4WSDXT1QS8583Q2FQQNX"
+    }
+  },
+  {
+    "trade_id": "INT_100290",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T12:44:00Z",
+      "InstrumentIdentificationCode": "US6631428502",
+      "Price": 365.87,
+      "Quantity": 231,
+      "VenueMIC": "BATS",
+      "BuyerLei": "KU3JZ0HHH7PMWL0V50B6"
+    }
+  },
+  {
+    "trade_id": "INT_100291",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T04:26:00Z",
+      "InstrumentIdentificationCode": "US0375002977",
+      "Price": 17.6,
+      "Quantity": 200,
+      "VenueMIC": "BATS",
+      "BuyerLei": "PMTETX977SQEYRH0OMPV"
+    }
+  },
+  {
+    "trade_id": "INT_100292",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T21:21:00Z",
+      "InstrumentIdentificationCode": "US6249553526",
+      "Price": 133.32,
+      "Quantity": 445,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "YOXO4NNFNQRTQP5I06JQ"
+    }
+  },
+  {
+    "trade_id": "INT_100293",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T09:20:00Z",
+      "InstrumentIdentificationCode": "US3617685353",
+      "Price": 339.22,
+      "Quantity": 961,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "QS3WONBRF5U10B6PVMBN"
+    }
+  },
+  {
+    "trade_id": "INT_100294",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T18:03:00Z",
+      "InstrumentIdentificationCode": "US1786383387",
+      "Price": 20.77,
+      "Quantity": 775,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "2TN50YDUROXH1UPP8QI8"
+    }
+  },
+  {
+    "trade_id": "INT_100295",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T05:31:00Z",
+      "InstrumentIdentificationCode": "US5703017581",
+      "Price": 117.61,
+      "Quantity": 1185,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "OGKBJQGD894YMRUA9HUU"
+    }
+  },
+  {
+    "trade_id": "INT_100296",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T13:06:00Z",
+      "InstrumentIdentificationCode": "US2273294387",
+      "Price": 168.95,
+      "Quantity": 185,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "W2T62OWC2HV2BATUH08F"
+    }
+  },
+  {
+    "trade_id": "INT_100297",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T17:22:00Z",
+      "InstrumentIdentificationCode": "US7086932588",
+      "Price": 394.73,
+      "Quantity": 157,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "BU6X7IB3VKQ9MGP6AKFT"
+    }
+  },
+  {
+    "trade_id": "INT_100298",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T10:48:00Z",
+      "InstrumentIdentificationCode": "US9924948930",
+      "Price": 207.71,
+      "Quantity": 56,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "EFW3NWK4FKMLB89Q11VG"
+    }
+  },
+  {
+    "trade_id": "INT_100299",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T23:51:00Z",
+      "InstrumentIdentificationCode": "US5918129180",
+      "Price": 31.5,
+      "Quantity": 21,
+      "VenueMIC": "BATS",
+      "BuyerLei": "WMNNPZZA5OUR3MX3BSYN"
+    }
+  },
+  {
+    "trade_id": "INT_100300",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T03:02:00Z",
+      "InstrumentIdentificationCode": "US5988930179",
+      "Price": 104.62,
+      "Quantity": 3673,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "YYCEZDG33S866NJ1N9PU"
+    }
+  },
+  {
+    "trade_id": "INT_100301",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T00:05:00Z",
+      "InstrumentIdentificationCode": "US2213921029",
+      "Price": 431.73,
+      "Quantity": 66,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "UUU5EIRUH7JXX567K4RW"
+    }
+  },
+  {
+    "trade_id": "INT_100302",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T03:20:00Z",
+      "InstrumentIdentificationCode": "US6303373319",
+      "Price": 140.99,
+      "Quantity": 255,
+      "VenueMIC": "BATS",
+      "BuyerLei": "2DED9PYNK27VNXZ9P5F7"
+    }
+  },
+  {
+    "trade_id": "INT_100303",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T06:30:00Z",
+      "InstrumentIdentificationCode": "US8788516268",
+      "Price": 148.42,
+      "Quantity": 1265,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "IMNIHC65GS7NSZQ1S0S6"
+    }
+  },
+  {
+    "trade_id": "INT_100304",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T20:38:00Z",
+      "InstrumentIdentificationCode": "US4079799919",
+      "Price": 356.91,
+      "Quantity": 229,
+      "VenueMIC": "BATS",
+      "BuyerLei": "7VWDWIXUPYZIO6AEIF1Z"
+    }
+  },
+  {
+    "trade_id": "INT_100305",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T18:13:00Z",
+      "InstrumentIdentificationCode": "US5341224454",
+      "Price": 427.47,
+      "Quantity": 542,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "UQRLKTIACUWISSW009L0"
+    }
+  },
+  {
+    "trade_id": "INT_100306",
+    "report_record": {
+      "TradingDateTime": "2024-01-18T22:22:00Z",
+      "InstrumentIdentificationCode": "US1372955883",
+      "Price": 297.2,
+      "Quantity": 313,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "7H9U1FT46GHIBQQ83FD8"
+    }
+  },
+  {
+    "trade_id": "INT_100307",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T10:45:00Z",
+      "InstrumentIdentificationCode": "US5331937918",
+      "Price": 456.07,
+      "Quantity": 132,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "4NN2S0I1X19RY8DNZHXP"
+    }
+  },
+  {
+    "trade_id": "INT_100308",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T19:37:00Z",
+      "InstrumentIdentificationCode": "US5551744138",
+      "Price": 136.44,
+      "Quantity": 334,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "AHP1VRVLSYE7JGOXZZZJ"
+    }
+  },
+  {
+    "trade_id": "INT_100309",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T18:55:00Z",
+      "InstrumentIdentificationCode": "US8697585668",
+      "Price": 106.27,
+      "Quantity": 338,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "G1STGFYMVQV7HRXBB0NL"
+    }
+  },
+  {
+    "trade_id": "INT_100310",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T06:05:00Z",
+      "InstrumentIdentificationCode": "US3931200642",
+      "Price": 62.51,
+      "Quantity": 1142,
+      "VenueMIC": "BATS",
+      "BuyerLei": "YZNNNY9DO5RNATJJX710"
+    }
+  },
+  {
+    "trade_id": "INT_100311",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T04:54:00Z",
+      "InstrumentIdentificationCode": "US4161882732",
+      "Price": 200.0,
+      "Quantity": 239,
+      "VenueMIC": "BATS",
+      "BuyerLei": "5H2SFUVJJ2PAQ3ZSUQUS"
+    }
+  },
+  {
+    "trade_id": "INT_100312",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T09:36:00Z",
+      "InstrumentIdentificationCode": "US8591854425",
+      "Price": 224.04,
+      "Quantity": 94,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "CIKKYVITUJV2IEKAAEVZ"
+    }
+  },
+  {
+    "trade_id": "INT_100313",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T21:35:00Z",
+      "InstrumentIdentificationCode": "US9661252134",
+      "Price": 181.41,
+      "Quantity": 224,
+      "VenueMIC": "BATS",
+      "BuyerLei": "VK584HT7DRDTIPZYDSNU"
+    }
+  },
+  {
+    "trade_id": "INT_100314",
+    "report_record": {
+      "TradingDateTime": "2024-01-05T14:41:00Z",
+      "InstrumentIdentificationCode": "US8654371709",
+      "Price": 70.5,
+      "Quantity": 59,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "N4NEKE2KE59OSV7QLYQJ"
+    }
+  },
+  {
+    "trade_id": "INT_100315",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T17:22:00Z",
+      "InstrumentIdentificationCode": "US7191061944",
+      "Price": 417.6,
+      "Quantity": 166,
+      "VenueMIC": "BATS",
+      "BuyerLei": "R28PTX8SD6BM373X6JRS"
+    }
+  },
+  {
+    "trade_id": "INT_100316",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T05:43:00Z",
+      "InstrumentIdentificationCode": "US8963335348",
+      "Price": 118.85,
+      "Quantity": 467,
+      "VenueMIC": "BATS",
+      "BuyerLei": "YRRJGNOPB33R4MT8W689"
+    }
+  },
+  {
+    "trade_id": "INT_100317",
+    "report_record": {
+      "TradingDateTime": "2024-01-18T20:47:00Z",
+      "InstrumentIdentificationCode": "US6145939486",
+      "Price": 173.05,
+      "Quantity": 111,
+      "VenueMIC": "BATS",
+      "BuyerLei": "8OK4115YT1YKS1AEJ79B"
+    }
+  },
+  {
+    "trade_id": "INT_100318",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T13:07:00Z",
+      "InstrumentIdentificationCode": "US9156956052",
+      "Price": 130.14,
+      "Quantity": 470,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "L34D40YEFE0HIO9G5HOS"
+    }
+  },
+  {
+    "trade_id": "INT_100319",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T20:08:00Z",
+      "InstrumentIdentificationCode": "US0929622183",
+      "Price": 439.19,
+      "Quantity": 52,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "JU25JMWW4DCUBDAO6FGS"
+    }
+  },
+  {
+    "trade_id": "INT_100320",
+    "report_record": {
+      "TradingDateTime": "2024-01-05T18:26:00Z",
+      "InstrumentIdentificationCode": "US9553593781",
+      "Price": 387.51,
+      "Quantity": 134,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "56ERJ96WE7XQ4GQ1VOOY"
+    }
+  },
+  {
+    "trade_id": "INT_100321",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T10:41:00Z",
+      "InstrumentIdentificationCode": "US0432191313",
+      "Price": 372.93,
+      "Quantity": 20,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "OIW9C7S1WGLNOCOXHEDN"
+    }
+  },
+  {
+    "trade_id": "INT_100322",
+    "report_record": {
+      "TradingDateTime": "2024-01-18T10:13:00Z",
+      "InstrumentIdentificationCode": "US5222910903",
+      "Price": 408.78,
+      "Quantity": 43,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "9ULUUFIALNFAV7KCFFTU"
+    }
+  },
+  {
+    "trade_id": "INT_100323",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T00:25:00Z",
+      "InstrumentIdentificationCode": "US9695604601",
+      "Price": 12.04,
+      "Quantity": 111,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "TS5OEKO2D9WOC5JVNQUO"
+    }
+  },
+  {
+    "trade_id": "INT_100324",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T15:28:00Z",
+      "InstrumentIdentificationCode": "US6699935828",
+      "Price": 166.29,
+      "Quantity": 20,
+      "VenueMIC": "BATS",
+      "BuyerLei": "3VIDHA1F9KEXRT1ME3AV"
+    }
+  },
+  {
+    "trade_id": "INT_100325",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T22:22:00Z",
+      "InstrumentIdentificationCode": "US7854311646",
+      "Price": 33.17,
+      "Quantity": 471,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "4CQZWF1HHS2W5J0A2C4K"
+    }
+  },
+  {
+    "trade_id": "INT_100326",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T12:18:00Z",
+      "InstrumentIdentificationCode": "US2482544550",
+      "Price": 5.54,
+      "Quantity": 155,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "HE3HS3O90MN3MPG08O18"
+    }
+  },
+  {
+    "trade_id": "INT_100327",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T06:05:00Z",
+      "InstrumentIdentificationCode": "US2357996311",
+      "Price": 355.02,
+      "Quantity": 197,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "RWMIGABDN59BNTYH1UW5"
+    }
+  },
+  {
+    "trade_id": "INT_100328",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T19:06:00Z",
+      "InstrumentIdentificationCode": "US8120340710",
+      "Price": 224.08,
+      "Quantity": 128,
+      "VenueMIC": "BATS",
+      "BuyerLei": "8A2D6Q1ZH7R40PJLVPLK"
+    }
+  },
+  {
+    "trade_id": "INT_100329",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T15:30:00Z",
+      "InstrumentIdentificationCode": "US8454090327",
+      "Price": 68.02,
+      "Quantity": 210,
+      "VenueMIC": "BATS",
+      "BuyerLei": "H3RDVCO86NAZHPJZ1LTN"
+    }
+  },
+  {
+    "trade_id": "INT_100330",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T11:55:00Z",
+      "InstrumentIdentificationCode": "US1109152940",
+      "Price": 10.43,
+      "Quantity": 145,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "VWWOZCWTHRF09OEIGTJZ"
+    }
+  },
+  {
+    "trade_id": "INT_100331",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T22:05:00Z",
+      "InstrumentIdentificationCode": "US0076829424",
+      "Price": 471.24,
+      "Quantity": 164,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "6DD2TWRYAO7T0VE7CQXX"
+    }
+  },
+  {
+    "trade_id": "INT_100332",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T14:16:00Z",
+      "InstrumentIdentificationCode": "US1966843733",
+      "Price": 75.59,
+      "Quantity": 1865,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "14QWMJPFKC1OMQG1MQO9"
+    }
+  },
+  {
+    "trade_id": "INT_100333",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T18:28:00Z",
+      "InstrumentIdentificationCode": "US7321393946",
+      "Price": 400.44,
+      "Quantity": 42,
+      "VenueMIC": "BATS",
+      "BuyerLei": "L36RNVUAO9V56WBB2CG9"
+    }
+  },
+  {
+    "trade_id": "INT_100334",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T03:05:00Z",
+      "InstrumentIdentificationCode": "US6110197770",
+      "Price": 116.06,
+      "Quantity": 79,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "TXXZY9GJLAYPESDFZINI"
+    }
+  },
+  {
+    "trade_id": "INT_100335",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T21:18:00Z",
+      "InstrumentIdentificationCode": "US7488295539",
+      "Price": 250.25,
+      "Quantity": 482,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "4GQSC382N813ZG4E8N90"
+    }
+  },
+  {
+    "trade_id": "INT_100336",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T09:48:00Z",
+      "InstrumentIdentificationCode": "US7043319056",
+      "Price": 32.12,
+      "Quantity": 100,
+      "VenueMIC": "BATS",
+      "BuyerLei": "0IEV4C3U8F15Y58VX354"
+    }
+  },
+  {
+    "trade_id": "INT_100337",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T23:26:00Z",
+      "InstrumentIdentificationCode": "US3796961031",
+      "Price": 43.41,
+      "Quantity": 67,
+      "VenueMIC": "BATS",
+      "BuyerLei": "L1QA5HXJJ9YJSOPB2D24"
+    }
+  },
+  {
+    "trade_id": "INT_100338",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T05:08:00Z",
+      "InstrumentIdentificationCode": "US4989523302",
+      "Price": 90.29,
+      "Quantity": 34,
+      "VenueMIC": "BATS",
+      "BuyerLei": "7YB7Z4I3TU2YYIZPLXZT"
+    }
+  },
+  {
+    "trade_id": "INT_100339",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T11:42:00Z",
+      "InstrumentIdentificationCode": "US3642065961",
+      "Price": 299.23,
+      "Quantity": 24,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "98Q1N7KM6B72DLZ1CTJR"
+    }
+  },
+  {
+    "trade_id": "INT_100340",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T03:32:00Z",
+      "InstrumentIdentificationCode": "US9051634441",
+      "Price": 323.98,
+      "Quantity": 353,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "0SASAQUVO5D5DA6GIAPR"
+    }
+  },
+  {
+    "trade_id": "INT_100341",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T14:29:00Z",
+      "InstrumentIdentificationCode": "US8365276820",
+      "Price": 447.05,
+      "Quantity": 642,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "EPO7SHJEZVWMIT1X6T3I"
+    }
+  },
+  {
+    "trade_id": "INT_100342",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T04:19:00Z",
+      "InstrumentIdentificationCode": "US2620919300",
+      "Price": 448.45,
+      "Quantity": 372,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "FWHBMU4909WUMZGVW3RR"
+    }
+  },
+  {
+    "trade_id": "INT_100343",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T10:05:00Z",
+      "InstrumentIdentificationCode": "US6640187790",
+      "Price": 336.98,
+      "Quantity": 43,
+      "VenueMIC": "BATS",
+      "BuyerLei": "8F3H45ORMXN1KFYAYB5M"
+    }
+  },
+  {
+    "trade_id": "INT_100344",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T07:19:00Z",
+      "InstrumentIdentificationCode": "US3761493204",
+      "Price": 64.28,
+      "Quantity": 75,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "IW66TDA70UXO8YIQUMCD"
+    }
+  },
+  {
+    "trade_id": "INT_100345",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T12:54:00Z",
+      "InstrumentIdentificationCode": "US7949622235",
+      "Price": 55.44,
+      "Quantity": 97,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "R0LW7WYD33MNHXR8YQ5X"
+    }
+  },
+  {
+    "trade_id": "INT_100346",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T19:15:00Z",
+      "InstrumentIdentificationCode": "US9995043368",
+      "Price": 362.32,
+      "Quantity": 214,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "P87CDEJ254BL0E0W6DUX"
+    }
+  },
+  {
+    "trade_id": "INT_100347",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T04:07:00Z",
+      "InstrumentIdentificationCode": "US4900118320",
+      "Price": 226.53,
+      "Quantity": 26,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "UI1H4T0HU1WFCEIGDEKO"
+    }
+  },
+  {
+    "trade_id": "INT_100348",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T19:33:00Z",
+      "InstrumentIdentificationCode": "US6757615853",
+      "Price": 266.7,
+      "Quantity": 323,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "E4MAVOZRIAIWBNRP2KFC"
+    }
+  },
+  {
+    "trade_id": "INT_100349",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T20:47:00Z",
+      "InstrumentIdentificationCode": "US5210704526",
+      "Price": 313.64,
+      "Quantity": 71,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "NC59QCJRCJIK69Z0VZVE"
+    }
+  },
+  {
+    "trade_id": "INT_100350",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T12:56:00Z",
+      "InstrumentIdentificationCode": "US1217560515",
+      "Price": 438.29,
+      "Quantity": 133,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "MQGQXB81S6UJIF8RSEYK"
+    }
+  },
+  {
+    "trade_id": "INT_100351",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T11:05:00Z",
+      "InstrumentIdentificationCode": "US4110712130",
+      "Price": 484.27,
+      "Quantity": 246,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "3GVJH0JNKFU6SXR8SX7V"
+    }
+  },
+  {
+    "trade_id": "INT_100352",
+    "report_record": {
+      "TradingDateTime": "2024-01-22T00:33:00Z",
+      "InstrumentIdentificationCode": "US0590128499",
+      "Price": 229.31,
+      "Quantity": 74,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "HQI5FUGG0HI1OBGRVJ6G"
+    }
+  },
+  {
+    "trade_id": "INT_100353",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T14:05:00Z",
+      "InstrumentIdentificationCode": "US5438551567",
+      "Price": 309.3,
+      "Quantity": 283,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "MZAHDUVCSA2W6WEGFVML"
+    }
+  },
+  {
+    "trade_id": "INT_100354",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T07:27:00Z",
+      "InstrumentIdentificationCode": "US4977044706",
+      "Price": 136.06,
+      "Quantity": 309,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "IJZA3OYFRACQHQYL2Y9Y"
+    }
+  },
+  {
+    "trade_id": "INT_100355",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T05:55:00Z",
+      "InstrumentIdentificationCode": "US5017396388",
+      "Price": 61.15,
+      "Quantity": 375,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "ACAAU356V3DWYLQOJ82L"
+    }
+  },
+  {
+    "trade_id": "INT_100356",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T06:06:00Z",
+      "InstrumentIdentificationCode": "US0755998435",
+      "Price": 337.46,
+      "Quantity": 277,
+      "VenueMIC": "BATS",
+      "BuyerLei": "91DJF38J5CZOQ0RSLXEX"
+    }
+  },
+  {
+    "trade_id": "INT_100357",
+    "report_record": {
+      "TradingDateTime": "2024-01-13T10:54:00Z",
+      "InstrumentIdentificationCode": "US5138344975",
+      "Price": 178.85,
+      "Quantity": 655,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "ECWJEWORYH4UBVHW5HD3"
+    }
+  },
+  {
+    "trade_id": "INT_100358",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T13:05:00Z",
+      "InstrumentIdentificationCode": "US6031506207",
+      "Price": 331.57,
+      "Quantity": 93,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "6651LIK6S7G4BS5JHZ3K"
+    }
+  },
+  {
+    "trade_id": "INT_100359",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T20:24:00Z",
+      "InstrumentIdentificationCode": "US1708874424",
+      "Price": 86.84,
+      "Quantity": 218,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "8F6UP7OFBX1AA19THAZY"
+    }
+  },
+  {
+    "trade_id": "INT_100360",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T10:39:00Z",
+      "InstrumentIdentificationCode": "US7041026011",
+      "Price": 486.16,
+      "Quantity": 113,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "6R2EYX26J6WKXXGUTJY9"
+    }
+  },
+  {
+    "trade_id": "INT_100361",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T23:07:00Z",
+      "InstrumentIdentificationCode": "US7154193608",
+      "Price": 256.39,
+      "Quantity": 212,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "TB9OV5T96OC20E4V8GFZ"
+    }
+  },
+  {
+    "trade_id": "INT_100362",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T18:46:00Z",
+      "InstrumentIdentificationCode": "US3681825308",
+      "Price": 398.75,
+      "Quantity": 138,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "9TPC3B8ZEBT77TYTYNLE"
+    }
+  },
+  {
+    "trade_id": "INT_100363",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T22:53:00Z",
+      "InstrumentIdentificationCode": "US5297248466",
+      "Price": 493.25,
+      "Quantity": 75,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "NSE94R43U3DEJ0P3M9UO"
+    }
+  },
+  {
+    "trade_id": "INT_100364",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T20:38:00Z",
+      "InstrumentIdentificationCode": "US5559448736",
+      "Price": 332.9,
+      "Quantity": 98,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "K03S7WACC1N3EONNHHS5"
+    }
+  },
+  {
+    "trade_id": "INT_100365",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T21:00:00Z",
+      "InstrumentIdentificationCode": "US7294248352",
+      "Price": 319.1,
+      "Quantity": 72,
+      "VenueMIC": "BATS",
+      "BuyerLei": "2H4ZRRGP6CD9DIQQ6TNV"
+    }
+  },
+  {
+    "trade_id": "INT_100366",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T08:02:00Z",
+      "InstrumentIdentificationCode": "US7589075034",
+      "Price": 430.52,
+      "Quantity": 588,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "IVAEISH5MT93J4Y2XUIB"
+    }
+  },
+  {
+    "trade_id": "INT_100367",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T00:13:00Z",
+      "InstrumentIdentificationCode": "US4711798674",
+      "Price": 148.87,
+      "Quantity": 318,
+      "VenueMIC": "BATS",
+      "BuyerLei": "4J7CH52VTF2Q47DBL8FH"
+    }
+  },
+  {
+    "trade_id": "INT_100368",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T19:25:00Z",
+      "InstrumentIdentificationCode": "US6503552595",
+      "Price": 129.07,
+      "Quantity": 73,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "1SPKH6JR8C01FNGJO42Q"
+    }
+  },
+  {
+    "trade_id": "INT_100369",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T10:24:00Z",
+      "InstrumentIdentificationCode": "US9884388242",
+      "Price": 114.54,
+      "Quantity": 212,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "KX8W5W7SBBOU8E0XGF6Q"
+    }
+  },
+  {
+    "trade_id": "INT_100370",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T20:23:00Z",
+      "InstrumentIdentificationCode": "US6530803264",
+      "Price": 437.92,
+      "Quantity": 99,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "292E5XSLAGQ7GQC2V2E3"
+    }
+  },
+  {
+    "trade_id": "INT_100371",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T06:15:00Z",
+      "InstrumentIdentificationCode": "US5436344002",
+      "Price": 217.91,
+      "Quantity": 433,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "FFEG6MAM0GCY6QNWX20W"
+    }
+  },
+  {
+    "trade_id": "INT_100372",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T09:32:00Z",
+      "InstrumentIdentificationCode": "US2364305956",
+      "Price": 499.51,
+      "Quantity": 317,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "FDWS4C1CNR0JOSIDOHAG"
+    }
+  },
+  {
+    "trade_id": "INT_100373",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T00:11:00Z",
+      "InstrumentIdentificationCode": "US0602556061",
+      "Price": 480.12,
+      "Quantity": 94,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "XHU2UC400I66Z14ATLQO"
+    }
+  },
+  {
+    "trade_id": "INT_100374",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T11:47:00Z",
+      "InstrumentIdentificationCode": "US1881099817",
+      "Price": 208.68,
+      "Quantity": 170,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "1ACOJUOWNOJIEYZHVYLI"
+    }
+  },
+  {
+    "trade_id": "INT_100375",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T14:17:00Z",
+      "InstrumentIdentificationCode": "US2555441632",
+      "Price": 67.02,
+      "Quantity": 59,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "Y411VEH1LYO7MHM9F5UG"
+    }
+  },
+  {
+    "trade_id": "INT_100376",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T14:08:00Z",
+      "InstrumentIdentificationCode": "US6358474131",
+      "Price": 314.05,
+      "Quantity": 751,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "V2N1U5FAUDC347STWYOW"
+    }
+  },
+  {
+    "trade_id": "INT_100377",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T03:04:00Z",
+      "InstrumentIdentificationCode": "US3295203012",
+      "Price": 434.47,
+      "Quantity": 88,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "IPCTJVCKYHIO5CD3MUSV"
+    }
+  },
+  {
+    "trade_id": "INT_100378",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T00:36:00Z",
+      "InstrumentIdentificationCode": "US9163151916",
+      "Price": 213.17,
+      "Quantity": 54,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "Q8R6DWKI3HELAOYRZCVZ"
+    }
+  },
+  {
+    "trade_id": "INT_100379",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T00:46:00Z",
+      "InstrumentIdentificationCode": "US3485937894",
+      "Price": 306.94,
+      "Quantity": 36,
+      "VenueMIC": "BATS",
+      "BuyerLei": "H2UQX947BC3HGLSZ1ONN"
+    }
+  },
+  {
+    "trade_id": "INT_100380",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T10:03:00Z",
+      "InstrumentIdentificationCode": "US0632718772",
+      "Price": 384.28,
+      "Quantity": 518,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "A8GMAN2CXAJM9IN9JW8G"
+    }
+  },
+  {
+    "trade_id": "INT_100381",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T09:18:00Z",
+      "InstrumentIdentificationCode": "US0631176649",
+      "Price": 18.45,
+      "Quantity": 112,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "DFWSHMAFG0O7WXO8DQ4J"
+    }
+  },
+  {
+    "trade_id": "INT_100382",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T18:17:00Z",
+      "InstrumentIdentificationCode": "US7533857762",
+      "Price": 200.86,
+      "Quantity": 106,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "KMX2E8SMENVIZE2VC1NN"
+    }
+  },
+  {
+    "trade_id": "INT_100383",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T21:57:00Z",
+      "InstrumentIdentificationCode": "US5083102240",
+      "Price": 257.01,
+      "Quantity": 129,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "3NMTZ0YILJF7SFBOQP1U"
+    }
+  },
+  {
+    "trade_id": "INT_100384",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T17:45:00Z",
+      "InstrumentIdentificationCode": "US7203729163",
+      "Price": 17.21,
+      "Quantity": 514,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "XQ29L4ISQBEPQ0GHHW5R"
+    }
+  },
+  {
+    "trade_id": "INT_100385",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T06:06:00Z",
+      "InstrumentIdentificationCode": "US6517387227",
+      "Price": 147.47,
+      "Quantity": 114,
+      "VenueMIC": "BATS",
+      "BuyerLei": "2JL33RX5IXZCWKJ9M2MZ"
+    }
+  },
+  {
+    "trade_id": "INT_100386",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T12:29:00Z",
+      "InstrumentIdentificationCode": "US7720511272",
+      "Price": 50.96,
+      "Quantity": 62,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "VDD3B29UUUDAZBIRKYZ9"
+    }
+  },
+  {
+    "trade_id": "INT_100387",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T10:02:00Z",
+      "InstrumentIdentificationCode": "US2175762790",
+      "Price": 447.3,
+      "Quantity": 544,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "FE7KIIHCMS75P9RN3BM0"
+    }
+  },
+  {
+    "trade_id": "INT_100388",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T14:22:00Z",
+      "InstrumentIdentificationCode": "US8346171941",
+      "Price": 86.31,
+      "Quantity": 407,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "29BRHOQWBF207RJQM0B7"
+    }
+  },
+  {
+    "trade_id": "INT_100389",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T14:29:00Z",
+      "InstrumentIdentificationCode": "US2890176893",
+      "Price": 232.35,
+      "Quantity": 32,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "Q6UZ9E6AFBEZMLEBD0JM"
+    }
+  },
+  {
+    "trade_id": "INT_100390",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T07:10:00Z",
+      "InstrumentIdentificationCode": "US8957874450",
+      "Price": 385.7,
+      "Quantity": 22,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "E0F5HURNOZ515MORFK5T"
+    }
+  },
+  {
+    "trade_id": "INT_100391",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T01:22:00Z",
+      "InstrumentIdentificationCode": "US4247011381",
+      "Price": 81.95,
+      "Quantity": 137,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "JXAY19RFBCH4SFNCA3SS"
+    }
+  },
+  {
+    "trade_id": "INT_100392",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T11:16:00Z",
+      "InstrumentIdentificationCode": "US8468380517",
+      "Price": 329.92,
+      "Quantity": 56,
+      "VenueMIC": "BATS",
+      "BuyerLei": "B2B70R9S0TUW3Y407HSZ"
+    }
+  },
+  {
+    "trade_id": "INT_100393",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T01:19:00Z",
+      "InstrumentIdentificationCode": "US5986329322",
+      "Price": 458.05,
+      "Quantity": 311,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "3EQRUVFPBA3WASCBQ1R6"
+    }
+  },
+  {
+    "trade_id": "INT_100394",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T23:27:00Z",
+      "InstrumentIdentificationCode": "US2793845496",
+      "Price": 476.86,
+      "Quantity": 116,
+      "VenueMIC": "BATS",
+      "BuyerLei": "KPWLCBX27TRNRBAT7K0W"
+    }
+  },
+  {
+    "trade_id": "INT_100395",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T09:33:00Z",
+      "InstrumentIdentificationCode": "US6083552392",
+      "Price": 287.21,
+      "Quantity": 32,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "S6O4UCB8PUL1L6TU9VZG"
+    }
+  },
+  {
+    "trade_id": "INT_100396",
+    "report_record": {
+      "TradingDateTime": "2024-01-22T20:09:00Z",
+      "InstrumentIdentificationCode": "US7775825473",
+      "Price": 308.36,
+      "Quantity": 107,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "FOT7BPS7NX15JIX922W0"
+    }
+  },
+  {
+    "trade_id": "INT_100397",
+    "report_record": {
+      "TradingDateTime": "2024-01-05T11:28:00Z",
+      "InstrumentIdentificationCode": "US3999196847",
+      "Price": 498.93,
+      "Quantity": 735,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "VZ1NIZBKQ7SRMEWX2HZO"
+    }
+  },
+  {
+    "trade_id": "INT_100398",
+    "report_record": {
+      "TradingDateTime": "2024-01-02T03:28:00Z",
+      "InstrumentIdentificationCode": "US9150443405",
+      "Price": 127.22,
+      "Quantity": 172,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "P3IAHR0R5599U54PNXY8"
+    }
+  },
+  {
+    "trade_id": "INT_100399",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T00:12:00Z",
+      "InstrumentIdentificationCode": "US7116406695",
+      "Price": 340.82,
+      "Quantity": 56,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "R77A4APO6W7QYF4E3ELG"
+    }
+  },
+  {
+    "trade_id": "INT_100400",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T16:35:00Z",
+      "InstrumentIdentificationCode": "US9201073201",
+      "Price": 152.03,
+      "Quantity": 73,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "0AUJ4YTBO1MNB78YOLI4"
+    }
+  },
+  {
+    "trade_id": "INT_100401",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T18:50:00Z",
+      "InstrumentIdentificationCode": "US9721285939",
+      "Price": 475.67,
+      "Quantity": 65,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "2P1UB81946WQAW0Y5SXC"
+    }
+  },
+  {
+    "trade_id": "INT_100402",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T12:00:00Z",
+      "InstrumentIdentificationCode": "US6264974286",
+      "Price": 302.42,
+      "Quantity": 100,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "68790SE2JM2ELMVOMAAK"
+    }
+  },
+  {
+    "trade_id": "INT_100403",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T15:03:00Z",
+      "InstrumentIdentificationCode": "US2256749505",
+      "Price": 13.81,
+      "Quantity": 39,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "0YP97P6CWKR2EX22ZCBY"
+    }
+  },
+  {
+    "trade_id": "INT_100404",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T09:30:00Z",
+      "InstrumentIdentificationCode": "US6302845304",
+      "Price": 28.67,
+      "Quantity": 41,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "J5414FNWPYB7Y9PRM07K"
+    }
+  },
+  {
+    "trade_id": "INT_100405",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T01:40:00Z",
+      "InstrumentIdentificationCode": "US6716302047",
+      "Price": 44.48,
+      "Quantity": 120,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "WK6TYZL56JDOF0EER18V"
+    }
+  },
+  {
+    "trade_id": "INT_100406",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T18:16:00Z",
+      "InstrumentIdentificationCode": "US9509274716",
+      "Price": 98.73,
+      "Quantity": 174,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "YJHLC0W6NW4ML8RUAIWN"
+    }
+  },
+  {
+    "trade_id": "INT_100407",
+    "report_record": {
+      "TradingDateTime": "2024-01-15T14:17:00Z",
+      "InstrumentIdentificationCode": "US1544225996",
+      "Price": 234.42,
+      "Quantity": 70,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "CESAIE76Y2YICODTWH66"
+    }
+  },
+  {
+    "trade_id": "INT_100408",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T14:12:00Z",
+      "InstrumentIdentificationCode": "US0716591236",
+      "Price": 109.27,
+      "Quantity": 421,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "OUXQI8TSRT3AXXS3Z2MD"
+    }
+  },
+  {
+    "trade_id": "INT_100409",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T19:12:00Z",
+      "InstrumentIdentificationCode": "US7016727081",
+      "Price": 368.88,
+      "Quantity": 80,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "ECJSNU1U9XQVSJKB6489"
+    }
+  },
+  {
+    "trade_id": "INT_100410",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T15:21:00Z",
+      "InstrumentIdentificationCode": "US0435050071",
+      "Price": 34.97,
+      "Quantity": 49,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "RFZ0KPSOZ4SXIWDJISO7"
+    }
+  },
+  {
+    "trade_id": "INT_100411",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T23:19:00Z",
+      "InstrumentIdentificationCode": "US1201012089",
+      "Price": 70.39,
+      "Quantity": 47,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "ZOPMY3GD3J3G98X9T5ZZ"
+    }
+  },
+  {
+    "trade_id": "INT_100412",
+    "report_record": {
+      "TradingDateTime": "2024-01-15T18:50:00Z",
+      "InstrumentIdentificationCode": "US0307056913",
+      "Price": 24.21,
+      "Quantity": 751,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "SCSTYKQ8NSC7V0U40BIS"
+    }
+  },
+  {
+    "trade_id": "INT_100413",
+    "report_record": {
+      "TradingDateTime": "2024-01-22T12:25:00Z",
+      "InstrumentIdentificationCode": "US5663582763",
+      "Price": 377.85,
+      "Quantity": 68,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "8Y2LLFJBYGWK9WG0MQ5Z"
+    }
+  },
+  {
+    "trade_id": "INT_100414",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T18:20:00Z",
+      "InstrumentIdentificationCode": "US6003679803",
+      "Price": 271.26,
+      "Quantity": 739,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "8WWZAN5JAEC0VRPBMPHH"
+    }
+  },
+  {
+    "trade_id": "INT_100415",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T13:20:00Z",
+      "InstrumentIdentificationCode": "US8481763233",
+      "Price": 44.52,
+      "Quantity": 238,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "729G3QMX40UAOCFN6HZO"
+    }
+  },
+  {
+    "trade_id": "INT_100416",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T05:10:00Z",
+      "InstrumentIdentificationCode": "US2703793113",
+      "Price": 230.97,
+      "Quantity": 59,
+      "VenueMIC": "BATS",
+      "BuyerLei": "A8ELLUSI95845535BKTI"
+    }
+  },
+  {
+    "trade_id": "INT_100417",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T20:55:00Z",
+      "InstrumentIdentificationCode": "US4978680825",
+      "Price": 405.37,
+      "Quantity": 106,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "8XMDLQAQBFKRY1PL2WUP"
+    }
+  },
+  {
+    "trade_id": "INT_100418",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T19:20:00Z",
+      "InstrumentIdentificationCode": "US9452968899",
+      "Price": 24.87,
+      "Quantity": 316,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "BLN3S4YDM9CPZSO5UAF0"
+    }
+  },
+  {
+    "trade_id": "INT_100419",
+    "report_record": {
+      "TradingDateTime": "2024-01-02T14:35:00Z",
+      "InstrumentIdentificationCode": "US3148315718",
+      "Price": 24.86,
+      "Quantity": 397,
+      "VenueMIC": "BATS",
+      "BuyerLei": "E2VNS8XFC7BOO5UQ75W8"
+    }
+  },
+  {
+    "trade_id": "INT_100420",
+    "report_record": {
+      "TradingDateTime": "2024-01-22T12:40:00Z",
+      "InstrumentIdentificationCode": "US4745712844",
+      "Price": 377.07,
+      "Quantity": 172,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "4AC4YHAGGHSQKKBD16KC"
+    }
+  },
+  {
+    "trade_id": "INT_100421",
+    "report_record": {
+      "TradingDateTime": "2024-01-17T07:48:00Z",
+      "InstrumentIdentificationCode": "US5458453254",
+      "Price": 491.31,
+      "Quantity": 241,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "A7IM3GNF7P9FHXCD5A7I"
+    }
+  },
+  {
+    "trade_id": "INT_100422",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T02:57:00Z",
+      "InstrumentIdentificationCode": "US5657874799",
+      "Price": 492.59,
+      "Quantity": 46,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "APD21VH56M0RRMVNKV9Q"
+    }
+  },
+  {
+    "trade_id": "INT_100423",
+    "report_record": {
+      "TradingDateTime": "2024-01-03T05:25:00Z",
+      "InstrumentIdentificationCode": "US8379627314",
+      "Price": 97.36,
+      "Quantity": 126,
+      "VenueMIC": "BATS",
+      "BuyerLei": "PI4Q4WF3GK7L0LMHP282"
+    }
+  },
+  {
+    "trade_id": "INT_100424",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T18:26:00Z",
+      "InstrumentIdentificationCode": "US0788740856",
+      "Price": 126.89,
+      "Quantity": 170,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "1NQX7VJHUGZMP34E5PIV"
+    }
+  },
+  {
+    "trade_id": "INT_100425",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T07:03:00Z",
+      "InstrumentIdentificationCode": "US4379802365",
+      "Price": 89.27,
+      "Quantity": 20,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "S4BR1DAPB9AWZKAKXJNN"
+    }
+  },
+  {
+    "trade_id": "INT_100426",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T00:58:00Z",
+      "InstrumentIdentificationCode": "US6226247366",
+      "Price": 288.96,
+      "Quantity": 152,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "TKZCFKH2J7XQ5K7XE27P"
+    }
+  },
+  {
+    "trade_id": "INT_100427",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T05:48:00Z",
+      "InstrumentIdentificationCode": "US8961214148",
+      "Price": 273.01,
+      "Quantity": 111,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "RRPUJDHSI3QODFPZWMQ0"
+    }
+  },
+  {
+    "trade_id": "INT_100428",
+    "report_record": {
+      "TradingDateTime": "2024-01-01T09:54:00Z",
+      "InstrumentIdentificationCode": "US2136489688",
+      "Price": 430.16,
+      "Quantity": 146,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "6XH8B6LVMJQEIMW3DUIG"
+    }
+  },
+  {
+    "trade_id": "INT_100429",
+    "report_record": {
+      "TradingDateTime": "2024-01-13T04:08:00Z",
+      "InstrumentIdentificationCode": "US5201709645",
+      "Price": 131.12,
+      "Quantity": 102,
+      "VenueMIC": "BATS",
+      "BuyerLei": "M1P1D1LP9TZZVIEQ7BG9"
+    }
+  },
+  {
+    "trade_id": "INT_100430",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T01:33:00Z",
+      "InstrumentIdentificationCode": "US9212703641",
+      "Price": 111.67,
+      "Quantity": 107,
+      "VenueMIC": "BATS",
+      "BuyerLei": "UHVEQN14Q8V2JR8PG3SW"
+    }
+  },
+  {
+    "trade_id": "INT_100431",
+    "report_record": {
+      "TradingDateTime": "2024-01-02T22:48:00Z",
+      "InstrumentIdentificationCode": "US6072339707",
+      "Price": 144.37,
+      "Quantity": 294,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "ZOZ1G5L85INM65S3PLJB"
+    }
+  },
+  {
+    "trade_id": "INT_100432",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T05:11:00Z",
+      "InstrumentIdentificationCode": "US5306711035",
+      "Price": 274.23,
+      "Quantity": 133,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "QTMXGHWNDUJV33PKV2YN"
+    }
+  },
+  {
+    "trade_id": "INT_100433",
+    "report_record": {
+      "TradingDateTime": "2024-01-22T19:46:00Z",
+      "InstrumentIdentificationCode": "US1534423260",
+      "Price": 363.79,
+      "Quantity": 123,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "QEEM93DWUUFX4SLNLOS1"
+    }
+  },
+  {
+    "trade_id": "INT_100434",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T06:28:00Z",
+      "InstrumentIdentificationCode": "US6240943060",
+      "Price": 106.59,
+      "Quantity": 789,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "WVU3KD6LI5KXGH6YAC16"
+    }
+  },
+  {
+    "trade_id": "INT_100435",
+    "report_record": {
+      "TradingDateTime": "2024-01-14T15:54:00Z",
+      "InstrumentIdentificationCode": "US2995175336",
+      "Price": 132.64,
+      "Quantity": 1345,
+      "VenueMIC": "BATS",
+      "BuyerLei": "E6S9FO96X0KW624A7RRF"
+    }
+  },
+  {
+    "trade_id": "INT_100436",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T19:26:00Z",
+      "InstrumentIdentificationCode": "US3948423960",
+      "Price": 435.08,
+      "Quantity": 84,
+      "VenueMIC": "BATS",
+      "BuyerLei": "K8QCV8UYBAGTF9U89HDP"
+    }
+  },
+  {
+    "trade_id": "INT_100437",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T18:01:00Z",
+      "InstrumentIdentificationCode": "US5267441790",
+      "Price": 74.65,
+      "Quantity": 14,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "1W5PJN97XRPYHXT3TRD9"
+    }
+  },
+  {
+    "trade_id": "INT_100438",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T11:58:00Z",
+      "InstrumentIdentificationCode": "US1762559474",
+      "Price": 33.55,
+      "Quantity": 143,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "WMZC2B1W9FK7QC7V22EJ"
+    }
+  },
+  {
+    "trade_id": "INT_100439",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T17:01:00Z",
+      "InstrumentIdentificationCode": "US9539031926",
+      "Price": 174.48,
+      "Quantity": 94,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "N7HGMU5KNKB7QNY0HQEL"
+    }
+  },
+  {
+    "trade_id": "INT_100440",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T14:17:00Z",
+      "InstrumentIdentificationCode": "US4589092800",
+      "Price": 223.55,
+      "Quantity": 65,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "R8SMDSY49DGPEW95XY1S"
+    }
+  },
+  {
+    "trade_id": "INT_100441",
+    "report_record": {
+      "TradingDateTime": "2024-01-24T23:36:00Z",
+      "InstrumentIdentificationCode": "US1616024588",
+      "Price": 283.65,
+      "Quantity": 44,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "HD429MIUCYYL2KKZNPJ4"
+    }
+  },
+  {
+    "trade_id": "INT_100442",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T19:55:00Z",
+      "InstrumentIdentificationCode": "US8697375262",
+      "Price": 499.11,
+      "Quantity": 17,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "MFPE7F6OONEZQP8WM627"
+    }
+  },
+  {
+    "trade_id": "INT_100443",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T03:38:00Z",
+      "InstrumentIdentificationCode": "US8923433498",
+      "Price": 95.39,
+      "Quantity": 414,
+      "VenueMIC": "BATS",
+      "BuyerLei": "T8VOK7XFQ149IJU742K6"
+    }
+  },
+  {
+    "trade_id": "INT_100444",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T04:16:00Z",
+      "InstrumentIdentificationCode": "US6887045530",
+      "Price": 450.69,
+      "Quantity": 438,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "PP9YAETE927RBP26P8QD"
+    }
+  },
+  {
+    "trade_id": "INT_100445",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T07:52:00Z",
+      "InstrumentIdentificationCode": "US7860390321",
+      "Price": 14.91,
+      "Quantity": 76,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "7YQ6WIFBICPYX2Z8WDNG"
+    }
+  },
+  {
+    "trade_id": "INT_100446",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T07:14:00Z",
+      "InstrumentIdentificationCode": "US0955975506",
+      "Price": 241.66,
+      "Quantity": 3068,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "AHCNQ7FE28R3OOP6JSC9"
+    }
+  },
+  {
+    "trade_id": "INT_100447",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T14:24:00Z",
+      "InstrumentIdentificationCode": "US8850574400",
+      "Price": 149.19,
+      "Quantity": 483,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "5CV0C6BKJ6GOZK0GAJUO"
+    }
+  },
+  {
+    "trade_id": "INT_100448",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T05:43:00Z",
+      "InstrumentIdentificationCode": "US2635891152",
+      "Price": 311.48,
+      "Quantity": 61,
+      "VenueMIC": "BATS",
+      "BuyerLei": "D9NQCWMIUHQPP1PNT72C"
+    }
+  },
+  {
+    "trade_id": "INT_100449",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T10:02:00Z",
+      "InstrumentIdentificationCode": "US7970950561",
+      "Price": 15.79,
+      "Quantity": 132,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "1AWMPZ4AQPJ4J7F11MLB"
+    }
+  },
+  {
+    "trade_id": "INT_100450",
+    "report_record": {
+      "TradingDateTime": "2024-01-13T04:24:00Z",
+      "InstrumentIdentificationCode": "US7228883674",
+      "Price": 41.17,
+      "Quantity": 112,
+      "VenueMIC": "BATS",
+      "BuyerLei": "2RLWKIXYYILK1HJY9IHC"
+    }
+  },
+  {
+    "trade_id": "INT_100451",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T06:58:00Z",
+      "InstrumentIdentificationCode": "US3412556834",
+      "Price": 108.0,
+      "Quantity": 222,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "GFVJT1W8A2IIVBPFM6SO"
+    }
+  },
+  {
+    "trade_id": "INT_100452",
+    "report_record": {
+      "TradingDateTime": "2024-01-07T08:27:00Z",
+      "InstrumentIdentificationCode": "US0366451468",
+      "Price": 164.3,
+      "Quantity": 162,
+      "VenueMIC": "BATS",
+      "BuyerLei": "WC8M7XALHSI1N0RF6YMW"
+    }
+  },
+  {
+    "trade_id": "INT_100453",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T10:09:00Z",
+      "InstrumentIdentificationCode": "US0961288128",
+      "Price": 374.72,
+      "Quantity": 30,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "JSPMH4YU2FR80EGJJ19J"
+    }
+  },
+  {
+    "trade_id": "INT_100454",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T21:24:00Z",
+      "InstrumentIdentificationCode": "US3925738542",
+      "Price": 284.87,
+      "Quantity": 102,
+      "VenueMIC": "BATS",
+      "BuyerLei": "1DRYRFSLY8AEAHRIED2A"
+    }
+  },
+  {
+    "trade_id": "INT_100455",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T18:40:00Z",
+      "InstrumentIdentificationCode": "US5771833109",
+      "Price": 468.16,
+      "Quantity": 138,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "QIIXKHYBJXPS4KFF5MC8"
+    }
+  },
+  {
+    "trade_id": "INT_100456",
+    "report_record": {
+      "TradingDateTime": "2024-01-27T06:26:00Z",
+      "InstrumentIdentificationCode": "US7597156784",
+      "Price": 19.12,
+      "Quantity": 117,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "SVHEIU1DXHQ7TPJ7J33Y"
+    }
+  },
+  {
+    "trade_id": "INT_100457",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T20:46:00Z",
+      "InstrumentIdentificationCode": "US8630273991",
+      "Price": 194.76,
+      "Quantity": 56,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "OV4B4NJ39ON420UIT8OX"
+    }
+  },
+  {
+    "trade_id": "INT_100458",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T22:27:00Z",
+      "InstrumentIdentificationCode": "US8722823832",
+      "Price": 442.62,
+      "Quantity": 52,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "VFGNKLEETOZ63XWIC9GV"
+    }
+  },
+  {
+    "trade_id": "INT_100459",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T23:11:00Z",
+      "InstrumentIdentificationCode": "US1968867920",
+      "Price": 276.49,
+      "Quantity": 560,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "52CHB4T2QJVF74LLPYV0"
+    }
+  },
+  {
+    "trade_id": "INT_100460",
+    "report_record": {
+      "TradingDateTime": "2024-01-18T20:30:00Z",
+      "InstrumentIdentificationCode": "US3005150928",
+      "Price": 46.41,
+      "Quantity": 210,
+      "VenueMIC": "BATS",
+      "BuyerLei": "X9EF9DJAUC40QWM0TMXC"
+    }
+  },
+  {
+    "trade_id": "INT_100461",
+    "report_record": {
+      "TradingDateTime": "2024-01-25T20:16:00Z",
+      "InstrumentIdentificationCode": "US9011687312",
+      "Price": 153.47,
+      "Quantity": 587,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "SJNTDE5FNFNL0ZLHJPZH"
+    }
+  },
+  {
+    "trade_id": "INT_100462",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T06:40:00Z",
+      "InstrumentIdentificationCode": "US0603010462",
+      "Price": 142.05,
+      "Quantity": 194,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "3I01ZR9HRT52RGA16DT9"
+    }
+  },
+  {
+    "trade_id": "INT_100463",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T13:22:00Z",
+      "InstrumentIdentificationCode": "US6673057423",
+      "Price": 277.38,
+      "Quantity": 440,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "5YJ8Y05LDZCQI2ART718"
+    }
+  },
+  {
+    "trade_id": "INT_100464",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T20:50:00Z",
+      "InstrumentIdentificationCode": "US5155155546",
+      "Price": 106.01,
+      "Quantity": 96,
+      "VenueMIC": "BATS",
+      "BuyerLei": "BD11YZB73UW6B0V7PTZP"
+    }
+  },
+  {
+    "trade_id": "INT_100465",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T11:34:00Z",
+      "InstrumentIdentificationCode": "US4754355505",
+      "Price": 123.92,
+      "Quantity": 73,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "M5VGVUFNPCIU335WCACG"
+    }
+  },
+  {
+    "trade_id": "INT_100466",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T00:22:00Z",
+      "InstrumentIdentificationCode": "US1441593028",
+      "Price": 397.05,
+      "Quantity": 198,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "B55FYCRCEX7X917P9GRF"
+    }
+  },
+  {
+    "trade_id": "INT_100467",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T13:53:00Z",
+      "InstrumentIdentificationCode": "US3486723631",
+      "Price": 265.19,
+      "Quantity": 152,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "AAUY0JL156HZB87F4WL1"
+    }
+  },
+  {
+    "trade_id": "INT_100468",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T18:57:00Z",
+      "InstrumentIdentificationCode": "US1475849389",
+      "Price": 243.7,
+      "Quantity": 70,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "4KZ10S0TCP2O3A235J0H"
+    }
+  },
+  {
+    "trade_id": "INT_100469",
+    "report_record": {
+      "TradingDateTime": "2024-01-18T02:30:00Z",
+      "InstrumentIdentificationCode": "US3738334068",
+      "Price": 415.91,
+      "Quantity": 95,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "8DTAZ7JWXM204J4JX6N8"
+    }
+  },
+  {
+    "trade_id": "INT_100470",
+    "report_record": {
+      "TradingDateTime": "2024-01-11T17:35:00Z",
+      "InstrumentIdentificationCode": "US9759885181",
+      "Price": 294.33,
+      "Quantity": 25,
+      "VenueMIC": "BATS",
+      "BuyerLei": "MWYD5OZKIKB0ZHUUHAMI"
+    }
+  },
+  {
+    "trade_id": "INT_100471",
+    "report_record": {
+      "TradingDateTime": "2024-01-21T14:14:00Z",
+      "InstrumentIdentificationCode": "US3908523955",
+      "Price": 344.59,
+      "Quantity": 262,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "HJIN05DB6UAKAKGBOHZ8"
+    }
+  },
+  {
+    "trade_id": "INT_100472",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T20:56:00Z",
+      "InstrumentIdentificationCode": "US8577963358",
+      "Price": 165.82,
+      "Quantity": 102,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "ZSZCB1BVGDTFI4Z9Z1EJ"
+    }
+  },
+  {
+    "trade_id": "INT_100473",
+    "report_record": {
+      "TradingDateTime": "2024-01-26T22:52:00Z",
+      "InstrumentIdentificationCode": "US4475553029",
+      "Price": 208.82,
+      "Quantity": 382,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "QDGYISIW454QV83ZF75Y"
+    }
+  },
+  {
+    "trade_id": "INT_100474",
+    "report_record": {
+      "TradingDateTime": "2024-01-22T11:49:00Z",
+      "InstrumentIdentificationCode": "US1974772464",
+      "Price": 489.72,
+      "Quantity": 480,
+      "VenueMIC": "BATS",
+      "BuyerLei": "F75L5QD6I73TW8WWW1S3"
+    }
+  },
+  {
+    "trade_id": "INT_100475",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T01:29:00Z",
+      "InstrumentIdentificationCode": "US2390338716",
+      "Price": 226.17,
+      "Quantity": 248,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "ZA9EVDBPPVAOXDRQGJAB"
+    }
+  },
+  {
+    "trade_id": "INT_100476",
+    "report_record": {
+      "TradingDateTime": "2024-01-28T03:14:00Z",
+      "InstrumentIdentificationCode": "US7396915560",
+      "Price": 473.46,
+      "Quantity": 542,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "86UTHZ6Z346KEBMRZYNE"
+    }
+  },
+  {
+    "trade_id": "INT_100477",
+    "report_record": {
+      "TradingDateTime": "2024-01-09T15:47:00Z",
+      "InstrumentIdentificationCode": "US3389595450",
+      "Price": 65.8,
+      "Quantity": 71,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "9VTVK4MRVQY5OMZKM6A0"
+    }
+  },
+  {
+    "trade_id": "INT_100478",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T04:46:00Z",
+      "InstrumentIdentificationCode": "US8031538200",
+      "Price": 403.94,
+      "Quantity": 413,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "VVTJJZY1MOFLS5K6BO9E"
+    }
+  },
+  {
+    "trade_id": "INT_100479",
+    "report_record": {
+      "TradingDateTime": "2024-01-02T01:52:00Z",
+      "InstrumentIdentificationCode": "US3793224274",
+      "Price": 169.79,
+      "Quantity": 54,
+      "VenueMIC": "BATS",
+      "BuyerLei": "LOS1GG3RXFDCFZK2TJZ0"
+    }
+  },
+  {
+    "trade_id": "INT_100480",
+    "report_record": {
+      "TradingDateTime": "2024-01-10T20:42:00Z",
+      "InstrumentIdentificationCode": "US4769878092",
+      "Price": 186.71,
+      "Quantity": 143,
+      "VenueMIC": "BATS",
+      "BuyerLei": "DT4TKAR69R48OFHVAMXU"
+    }
+  },
+  {
+    "trade_id": "INT_100481",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T11:50:00Z",
+      "InstrumentIdentificationCode": "US5529348725",
+      "Price": 291.06,
+      "Quantity": 39,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "SOV3T5YWE30GEOHIKV78"
+    }
+  },
+  {
+    "trade_id": "INT_100482",
+    "report_record": {
+      "TradingDateTime": "2024-01-20T23:27:00Z",
+      "InstrumentIdentificationCode": "US5017752150",
+      "Price": 490.97,
+      "Quantity": 93,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "VJUFA7N90IF4Q9U01P89"
+    }
+  },
+  {
+    "trade_id": "INT_100483",
+    "report_record": {
+      "TradingDateTime": "2024-01-30T18:58:00Z",
+      "InstrumentIdentificationCode": "US9066552298",
+      "Price": 499.33,
+      "Quantity": 197,
+      "VenueMIC": "BATS",
+      "BuyerLei": "XX6Q98FP15ZKY4UCLYQ9"
+    }
+  },
+  {
+    "trade_id": "INT_100484",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T14:16:00Z",
+      "InstrumentIdentificationCode": "US0923350013",
+      "Price": 148.53,
+      "Quantity": 241,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "LPPQ4OM0UBHGJD98CRX5"
+    }
+  },
+  {
+    "trade_id": "INT_100485",
+    "report_record": {
+      "TradingDateTime": "2024-01-12T11:13:00Z",
+      "InstrumentIdentificationCode": "US6501065111",
+      "Price": 415.64,
+      "Quantity": 429,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "GRDKTKOQ7L18H0VXB4VA"
+    }
+  },
+  {
+    "trade_id": "INT_100486",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T14:59:00Z",
+      "InstrumentIdentificationCode": "US8240520959",
+      "Price": 167.54,
+      "Quantity": 810,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "38IRSDF65PKV9WZ42EY7"
+    }
+  },
+  {
+    "trade_id": "INT_100487",
+    "report_record": {
+      "TradingDateTime": "2024-01-02T05:47:00Z",
+      "InstrumentIdentificationCode": "US5604391116",
+      "Price": 396.02,
+      "Quantity": 130,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "LMIFJWOW7P5EQVR1MAS7"
+    }
+  },
+  {
+    "trade_id": "INT_100488",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T02:10:00Z",
+      "InstrumentIdentificationCode": "US9162973382",
+      "Price": 249.69,
+      "Quantity": 147,
+      "VenueMIC": "XNSE",
+      "BuyerLei": "QL9XJ32J1RQKAQ99I16C"
+    }
+  },
+  {
+    "trade_id": "INT_100489",
+    "report_record": {
+      "TradingDateTime": "2024-01-16T10:02:00Z",
+      "InstrumentIdentificationCode": "US4880205205",
+      "Price": 395.41,
+      "Quantity": 66,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "H1PJODZO95DI81IBCEJ1"
+    }
+  },
+  {
+    "trade_id": "INT_100490",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T17:26:00Z",
+      "InstrumentIdentificationCode": "US7700200970",
+      "Price": 63.4,
+      "Quantity": 374,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "JFY37RX00USWOB8T1OP6"
+    }
+  },
+  {
+    "trade_id": "INT_100491",
+    "report_record": {
+      "TradingDateTime": "2024-01-06T03:18:00Z",
+      "InstrumentIdentificationCode": "US3024169969",
+      "Price": 263.8,
+      "Quantity": 123,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "TTH7W1M2HKRYV82UGL9X"
+    }
+  },
+  {
+    "trade_id": "INT_100492",
+    "report_record": {
+      "TradingDateTime": "2024-01-15T06:55:00Z",
+      "InstrumentIdentificationCode": "US9164529661",
+      "Price": 87.65,
+      "Quantity": 316,
+      "VenueMIC": "BATS",
+      "BuyerLei": "B8QI9V47XIBU70GVDN7W"
+    }
+  },
+  {
+    "trade_id": "INT_100493",
+    "report_record": {
+      "TradingDateTime": "2024-01-13T01:04:00Z",
+      "InstrumentIdentificationCode": "US8469634170",
+      "Price": 242.89,
+      "Quantity": 129,
+      "VenueMIC": "BATS",
+      "BuyerLei": "DO8JBX1V54SUCF5BX0IM"
+    }
+  },
+  {
+    "trade_id": "INT_100494",
+    "report_record": {
+      "TradingDateTime": "2024-01-19T05:30:00Z",
+      "InstrumentIdentificationCode": "US9391841956",
+      "Price": 439.25,
+      "Quantity": 37,
+      "VenueMIC": "ARCX",
+      "BuyerLei": "U15PJWOF6L94J7JKNC6G"
+    }
+  },
+  {
+    "trade_id": "INT_100495",
+    "report_record": {
+      "TradingDateTime": "2024-01-23T22:21:00Z",
+      "InstrumentIdentificationCode": "US5337635501",
+      "Price": 169.64,
+      "Quantity": 283,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "9EEJGL3Y1MVR0HFK2EGV"
+    }
+  },
+  {
+    "trade_id": "INT_100496",
+    "report_record": {
+      "TradingDateTime": "2024-01-29T23:17:00Z",
+      "InstrumentIdentificationCode": "US2005871878",
+      "Price": 16.11,
+      "Quantity": 944,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "J4KY7TG682LEL28TAP3I"
+    }
+  },
+  {
+    "trade_id": "INT_100497",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T07:43:00Z",
+      "InstrumentIdentificationCode": "US8304824220",
+      "Price": 401.6,
+      "Quantity": 24,
+      "VenueMIC": "XNYS",
+      "BuyerLei": "2BQ4138TP7NZTXRIST3Z"
+    }
+  },
+  {
+    "trade_id": "INT_100498",
+    "report_record": {
+      "TradingDateTime": "2024-01-08T16:34:00Z",
+      "InstrumentIdentificationCode": "US5303751263",
+      "Price": 35.28,
+      "Quantity": 105,
+      "VenueMIC": "XNAS",
+      "BuyerLei": "6TVU08F5P1P0CU3VS4TS"
+    }
+  },
+  {
+    "trade_id": "INT_100499",
+    "report_record": {
+      "TradingDateTime": "2024-01-04T06:18:00Z",
+      "InstrumentIdentificationCode": "US5609439218",
+      "Price": 90.36,
+      "Quantity": 421,
+      "VenueMIC": "BATS",
+      "BuyerLei": "GG0J6GFFMMBSSBZFTWOF"
+    }
+  }
+]

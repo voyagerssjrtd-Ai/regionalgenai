@@ -1,0 +1,72 @@
+{
+  "trade_feed": [
+    {
+      "id": "TX9001",
+      "timestamp": "2024-01-25T10:32:09Z",
+      "instrument": { "isin": "US5554443332", "symbol": "STK201" },
+      "side": "BUY",
+      "qty": 900,
+      "px": 122.55,
+      "venue": "XNAS",
+      "cp": { "lei": "LEI55544433322211100099" }
+    },
+    {
+      "id": "TX9002",
+      "timestamp": 1706178123,
+      "instrument": { "isin": "US1110009999", "symbol": "STK202" },
+      "side": "SELL",
+      "qty": 150000,
+      "px": 0.01,
+      "venue": "BATS",
+      "cp": { "lei": "LEI111000999988877766554" }
+    },
+    {
+      "id": "TX9003",
+      "timestamp": "2024/01/25 10:40:22",
+      "instrument": { "isin": "INVALID999999", "symbol": "STK203" },
+      "side": "B",
+      "qty": 500,
+      "px": 88.10,
+      "venue": "",
+      "cp": { "lei": "" }
+    },
+    {
+      "id": "TX9004",
+      "timestamp": "25-01-2024 10:49:55",
+      "instrument": { "isin": "US7776665554", "symbol": "STK204" },
+      "side": "S",
+      "qty": 2400,
+      "px": 66.20,
+      "venue": "XNYS",
+      "cp": { "lei": "LEI77766655544433322111" }
+    },
+    {
+      "id": "TX9005",
+      "timestamp": "2024-01-25T10:56:45.339Z",
+      "instrument": { "isin": "US2233445566", "symbol": "STK205" },
+      "side": "BUY",
+      "qty": 100,
+      "px": 455.00,
+      "venue": "ARCX",
+      "cp": { "lei": "LEI22334455667788990011" }
+    },
+    {
+      "id": "TX9006",
+      "ts": "20240125T110102Z",
+      "inst": { "id": "US8877553311", "ticker": "STK206" },
+      "order": { "side": "BUY", "shares": 1200, "price": 190.50 },
+      "mic": "XNAS",
+      "counterparty": { "lei": "LEI88775533110011223344" }
+    },
+    {
+      "id": "TX9007",
+      "timestamp": "2024-01-25 11:10:22",
+      "instrument": { "isin": "US1122993377", "symbol": "STK207" },
+      "side": "P",
+      "qty": 450,
+      "px": "",
+      "venue": "XNSE",
+      "cp": { "lei": "INVALIDLEICODE" }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "regulation": "DEMO_RTS22",
+  "report_type": "TransactionReport",
+  "fields_required": [
+    { "name": "TradingDateTime", "source": "execution_time", "format": "datetime" },
+    { "name": "InstrumentIdentificationCode", "source": "instrument.isin", "format": "isin" },
+    { "name": "Price", "source": "price", "format": "decimal" },
+    { "name": "Quantity", "source": "quantity", "format": "integer" },
+    { "name": "VenueMIC", "source": "venue_mic", "format": "mic" },
+    { "name": "BuyerLei", "source": "counterparty_lei", "format": "lei" }
+  ],
+  "validation_rules": [
+    "Quantity > 0",
+    "Price > 0",
+    "InstrumentIdentificationCode is valid ISIN",
+    "BuyerLei not null"
+  ]
+}

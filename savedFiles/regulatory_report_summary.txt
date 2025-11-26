@@ -1,0 +1,17 @@
+Compliance Reporting Summary
+============================
+Total trades processed: 500
+Valid regulatory records: 500
+Invalid records: 0
+Valid ratio: 1.0
+Invalid ratio: 0.0
+
+Top error types:
+  (No errors)
+
+Venue distribution (valid records):
+  - XNSE: 107
+  - BATS: 106
+  - XNYS: 105
+  - ARCX: 94
+  - XNAS: 88
