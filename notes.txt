@@ -89,3 +89,26 @@ Be creative to go beyond as you solve the above needs
 #     img = Image.open(file_path)
 
 #     return pytesseract.image_to_string(img)
+
+
+
+
+
+
+TCS AI Fridays Hackathon
+
+Title:
+AI-Generated Product Description Engine for E-Commerce
+
+Problem Statement:
+E-commerce retailers must create compelling, SEO-optimized product descriptions for extensive and frequently updated inventories. Manual content generation is costly, inconsistent, and slow, leading to lower conversion rates and customer engagement. Retailers need scalable solutions that generate unique, targeted descriptions aligned with brand voice while adhering to platform guidelines. The dynamic market demands rapid updates and multi-channel content delivery, challenging traditional static approaches.
+
+Data Requirements (Guidance):
+Domain-specific datasets including product catalogs, historical descriptions, customer reviews, and SEO performance metrics. Data quality must support diverse product categories, with synthetic augmentation for new or niche items. Compliance with platform content policies essential.
+
+(Feel free to generate synthetic data as well from the provided access)
+
+Expected Output / Demonstration of Solution:
+A production-ready AI solution delivering tailored product descriptions integrated with e-commerce platforms. Includes comprehensive technical documentation and automated testing suites. Business benefits include improved conversion rates, faster time-to-market for new products, and enhanced brand consistency.
+
+Be creative to go beyond as you solve the above needs
